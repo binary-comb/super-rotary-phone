@@ -1,0 +1,17 @@
+---
+info:
+  name: Qredo
+  account-address: "0xe85738f9cb22cf80f77b861a9e9aca13c0a297cf0f1c075d35a9b3fb94bf6f89"
+  protocol-key: iVW5jl2x7amfYo2/W1BMR8NhJ4kLn016I2yIpMMBA3oBtfyF4BoCUfVNE2A7CeLJAushGtOvTBhTxfnOVvgu//Yw80lcvoPZXlJ8JuPbSfUDrM6VjvuMFyZm8Ty6BHhl
+  worker-key: WztJWZFgOcXkBZ+BzU6J+uc1rujyqio8VhUdXu9k3j4=
+  network-key: Vc2154/rw8aAmCqq1bmc7tUQgPbPOXkEN6lEVn1MqbY=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.validators.qredo.network/tcp/8080/http
+  p2p-address: /dns/sui.validators.qredo.network/udp/8084
+  narwhal-primary-address: /dns/sui.validators.qredo.network/udp/8081
+  narwhal-worker-address: /dns/sui.validators.qredo.network/udp/8082
+  description: Qredo Services
+  image-url: "https://www.qredo.com/images/qredo-favicon-v2.png"
+  project-url: "https://www.qredo.com/"
+proof_of_possession: pchvY0+jYf515o5nLytAE0jbWMin331VV0dA5WOioIKzSarJ2tLEBFcZRHLQUf/I

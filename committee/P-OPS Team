@@ -1,0 +1,17 @@
+---
+info:
+  name: P-OPS Team
+  account-address: "0xd1dbb08191b4ae8e227935669c1862ba75a41cd7df5970002eafb2f365c32ed8"
+  protocol-key: uKsSMiR+AtokPYfXeFjrTAOqQO8OhQ7jTm8ZbKAKMhQwJfqKeHfLFB+qexx+p8ZwDOOawlib3eMc9EIyhF7DuxO6T8QE8H99rvrQCcxlZptDrzrWaO5uoifbRB5jkPEk
+  worker-key: FpDPoFX115JK6YSQs9EXIS5k/T8YxMlJnE4XEwy9yWI=
+  network-key: 9kwlWqsw/e2bUyF6Hp6yrlN87pihtHkiAjACY4g0e2c=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/val01-sui-m.pops.one/tcp/8080/http
+  p2p-address: /dns/val01-sui-m.pops.one/udp/8084
+  narwhal-primary-address: /dns/val01-sui-m.pops.one/udp/8081
+  narwhal-worker-address: /dns/val01-sui-m.pops.one/udp/8082
+  description: "P-OPS TEAM is a decentralized organization providing you with staking services, consultation and investment capital for innovative Web 3.0 projects."
+  image-url: "https://pops.one/img/PopsSVGlogo.svg"
+  project-url: "https://pops.one/"
+proof_of_possession: oJO/XMKBl/ID4eNSu3zC0d5IoMh0I083dbqeXY3i1yEyUjboMMbeFz45XuOaiAm/

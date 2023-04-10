@@ -1,0 +1,17 @@
+---
+info:
+  name: gumi
+  account-address: "0xa528acf0c239c28985da3170870629eb58dd9fb2683548317ce0a218427abb8d"
+  protocol-key: opuVMYrwSVfndpZ02dFPeLpM7XV12mjEpwDufaOiywbRGK4k5s4WJdkkrmChwWB/A1iOa4tV5VBuJvgThcZQ81MRPJ1QpZnIbwbEM7Da5ZMtIxM8WZk6sJDcbIdSuOI7
+  worker-key: bNkATDX5btB+eiUuSIBVu7JWjvfWYDUmqkHsAubkwMk=
+  network-key: R29onKG2rhi0vPQYVuIAT0esTAJe+uOEJ0dBphOj5UQ=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/mainnet.sui.gu3.jp/tcp/8080/http
+  p2p-address: /dns/mainnet.sui.gu3.jp/udp/8084
+  narwhal-primary-address: /dns/mainnet.sui.gu3.jp/udp/8081
+  narwhal-worker-address: /dns/mainnet.sui.gu3.jp/udp/8082
+  description: GameFi & Metaverse Company in Japan
+  image-url: "https://bit.ly/3n3dr6v"
+  project-url: "https://gu3.co.jp/en/metaverse/"
+proof_of_possession: iSDgzoxMmRDqIgDIA4DTkCW+210ysKFoPtBtK/wL+qXGoDTY4VkDGqSbttrUzIkJ

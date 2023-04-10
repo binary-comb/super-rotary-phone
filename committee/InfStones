@@ -1,0 +1,17 @@
+---
+info:
+  name: InfStones
+  account-address: "0x8f8ea04f3b751533db8b8da0a40eba1ca8332a92680f058d83b9459d061aaa54"
+  protocol-key: gNhkGDfc1QPTb/j50fzMPmQVp8PCrSZlxd/b0Ec8nqf1N2rbMejspBhU3wi/ue2/AlgAH8g8alP6n3tNSqF9cBt5IevIYlERPvVxoekPWMWiGpLCB8NNm3iEwxKNwbgj
+  worker-key: oud9N1OOviX9yE3RJ2PqWyERYwGvUNaXC7aBhDRVeT4=
+  network-key: MoHiJfYzs1i8+P6LYAXN/aO4CdjlpEptsuumFuLL9EM=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/prod.sui.infstones.io/tcp/8080/http
+  p2p-address: /dns/prod.sui.infstones.io/udp/8084
+  narwhal-primary-address: /dns/prod.sui.infstones.io/udp/8081
+  narwhal-worker-address: /dns/prod.sui.infstones.io/udp/8082
+  description: InfStones runs an enterprise-grade node management and staking platform
+  image-url: "https://github.com/sili-infstones/infstones-logo/raw/main/infstones_logo.webp"
+  project-url: "https://infstones.com"
+proof_of_possession: r7Kql1UwLivuv7AATUnZ2VejCWc21AoV+elG3gJU8U6aUab7cT6CUtFSpTC4z8sm

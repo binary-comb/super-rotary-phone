@@ -1,0 +1,17 @@
+---
+info:
+  name: Triton One
+  account-address: "0xa608b66f7ae2201286f7dd07a8b073cde7955b35056629636a6c9b3f5275f384"
+  protocol-key: hpz3vlLZhyxDm6+XprUikiDJ/o5fi+cKZn9jinQAc6OHvaFEOf1QNhF37CLTu6g3CvTtuzOT0bp14mx3pXj8Yei7wdBXDJ3+LrQ+anEpV/Jmx3IglwR8i4ScnlU9YTGS
+  worker-key: OSBTmnJ5Jq5JLKZDfcIY0TAgMMRNr/r59hSx7c6RHb8=
+  network-key: jXQ5WV1gNI08PrtlGuU58oGYVvG6PxVQIJPx3aN2eCI=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/validator.mainnet.sui.rpcpool.com/tcp/8080/http
+  p2p-address: /dns/validator.mainnet.sui.rpcpool.com/udp/8084
+  narwhal-primary-address: /dns/validator.mainnet.sui.rpcpool.com/udp/8081
+  narwhal-worker-address: /dns/validator.mainnet.sui.rpcpool.com/udp/8082
+  description: Triton One provides high-performance infrastructure for next-generation blockchains.
+  image-url: "https://triton-public-us.s3.amazonaws.com/logonew.svg"
+  project-url: "https://www.triton.one"
+proof_of_possession: pnzY2bLwS3YNNLue6P1qlPAZtbkvQwafAmqMqvSq0tb5yCxA9lHtTgMiMnqMIY+1

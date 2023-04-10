@@ -1,0 +1,17 @@
+---
+info:
+  name: stakefish
+  account-address: "0xd1d00bcc9661120fc6b0f233a2f6810f39e71b39fc637cb1b9e5635edb3b0c40"
+  protocol-key: lp0YAv+6VDd5aQwSsTNndJ7RvPlrXWGUlQ1xJQFhm2t8GK5uJQqyRubIvHu0dTzdGY4b0NPldnEKrNWu5f+23gs3Bxj89GmTmMOSshVl85/ia/Gc+nteNCXGj3F9Zx0p
+  worker-key: MjVAr3pk4/1crD1ytlrJMBoG4l3vuTboaQJ6Ro6uMLU=
+  network-key: u69Ec5D7QDNCHcdmdltYwVZnd5mT4VRI84vtRqZ6KOA=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.ops.fish/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.ops.fish/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.ops.fish/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.ops.fish/udp/8082
+  description: We are the leading staking service provider for blockchain projects. Join our community to help secure networks and earn rewards. Stake. Earn. Relax.
+  image-url: "https://pin.ski/40RakOb"
+  project-url: "https://stake.fish"
+proof_of_possession: icKza/6xS8VpcAMjZvB532HwFNOi2boVzQ4qI0bJQ3HnNqwvS0TVCojg+fGh2yMI

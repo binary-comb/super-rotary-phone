@@ -1,0 +1,17 @@
+---
+info:
+  name: TDMTech
+  account-address: "0xc64e58562d424e248abce5b886b264209c23d05b7b75bc5a1a5e137700f0ddf8"
+  protocol-key: s6tGVGlyXrPUoM910Ngdh/sHYAAFADyV2e/LezjAax8cdw9BStbm6LlU0Pm7zjTVF25DXm8UqfbUJjeTa7Mf84HklRO0RbOwxYvWxv/8p9lJpXpvhlwfLHi/ozEAdqhY
+  worker-key: dOEo0oMXNueKSN/uEKUnW7DXmDafjEKeS24klpgwQJo=
+  network-key: q2nxhiAYby7rraskG8b7XP8SjEJ3zRoGxduarAQjbFw=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-tdmtech-validator.ankr.com/tcp/8080/http
+  p2p-address: /dns/sui-tdmtech-validator.ankr.com/udp/8084
+  narwhal-primary-address: /dns/sui-tdmtech-validator.ankr.com/udp/8081
+  narwhal-worker-address: /dns/sui-tdmtech-validator.ankr.com/udp/8082
+  description: ""
+  image-url: ""
+  project-url: ""
+proof_of_possession: mRZWSwGlNCaY97v8E0bfz6yToLd1I/epmKQkoD8WYBc8MXPJA4xKdlwE60pPjr9m

@@ -1,0 +1,17 @@
+---
+info:
+  name: Chainflow
+  account-address: "0xbc7e7537564bd939b62e5b24477ac00ba8cef33ccec72d63090a080a1253b725"
+  protocol-key: iBM6LI9/6q0D6pjb+pVP99PDZlaRYKHZ5wXmr2bPeu2YTlH8V/AjVCnWU3wPCSOfCBIKqHgm6mG3owDj8WyYQf+Hv2jxUeG6STWvZcHmwLWq5fu4eZsbHs8YQh7wWg+C
+  worker-key: zA36loood+DI6WJk4vKcxlYOvk7PympZyBOl3WL/md0=
+  network-key: qnqNUK1+/ZRIJGsavjbwPejnTOJpSzN9SxDU/WNHMSk=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/suimain01.chainflow.io/tcp/8080/http
+  p2p-address: /dns/suimain01.chainflow.io/udp/8084
+  narwhal-primary-address: /dns/suimain01.chainflow.io/udp/8081
+  narwhal-worker-address: /dns/suimain01.chainflow.io/udp/8082
+  description: Fair and equitable staking for a brighter future.
+  image-url: ""
+  project-url: "https://chainflow.io"
+proof_of_possession: s0Ngtb+XrRW2pr5hEKsiU89aX5SEVYYlCxAmktW6AYvLj8c/3Fg/8D8hULLTILXy

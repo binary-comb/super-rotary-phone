@@ -1,0 +1,17 @@
+---
+info:
+  name: Cosmostation
+  account-address: "0x184fbf9d6c2d2d3f27e27fe3ca2d3b4080bd406221e345e2d36633e638e988e1"
+  protocol-key: hQ5p+KTRa+PSwc378Rn/BRmUIAsFZ98pDdpJ7SIegnGF5fIATuEqx1imYrGlXoloAdX7/lSSGNbLWG6mDHlHWntrkm5Q+APBZp+iiSazoLXXUpLr5aKbbeYRi32MdkO4
+  worker-key: yASvnKSrE0aQg4IPNEs8yfyCgpYkkuqrWpnrt0Uq8/0=
+  network-key: fPRu7C2lXY+TNGj9lwT+NG3254J2vaa3uzP14s5j4jI=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet-validator.cosmostation.io/tcp/8080/http
+  p2p-address: /dns/sui-mainnet-validator.cosmostation.io/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet-validator.cosmostation.io/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet-validator.cosmostation.io/udp/8082
+  description: intelligent crypto infrastructure. earn with cosmostation
+  image-url: "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/stamper/logo_1024x1024.png"
+  project-url: "https://www.cosmostation.io"
+proof_of_possession: i5TDNZhHAY09DNGWJfEtMKP5aXZXqQa++LfGaXUTDMcJI7LExS4iKBXNPszr8KaL

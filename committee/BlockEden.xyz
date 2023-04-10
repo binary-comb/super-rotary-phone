@@ -1,0 +1,17 @@
+---
+info:
+  name: BlockEden.xyz
+  account-address: "0x3b5664bb0f8bb4a8be77f108180a9603e154711ab866de83c8344ae1f3ed4695"
+  protocol-key: sz7y/gLKPxoXuA6Kw8FCpmFj+fFSQSNsJTie2ho9fW3Eo2WCZGlQk/Skth1HEnYVCZWHtHU/2lyQQTSEtUFciBMvbk9J1eLDRAVPi1CMWml2hrbdRCfsOzILoM4C1umf
+  worker-key: 5O8ipP5GTAZYkgMxfubmy6MDLH7DSfPDdYezEtXVHF8=
+  network-key: bexxCevFan/cekpqEV7PbkoEbca3XS9bh7PazWRpp/I=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet-validator.blockeden.xyz/tcp/8080/http
+  p2p-address: /dns/sui-mainnet-validator.blockeden.xyz/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet-validator.blockeden.xyz/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet-validator.blockeden.xyz/udp/8082
+  description: BlockEden.xyz is a suite of APIs powering DApps of all sizes for Aptos and Sui blockchains. Build DApp and scale faster.
+  image-url: "https://blockeden.xyz/img/favicon.svg"
+  project-url: "https://blockeden.xyz"
+proof_of_possession: k44cxiThKuEGPn37gTPbFpgOcWqnwU1oVzXvJeYmR1RDGaIft6GRv3jw4RebI/ig

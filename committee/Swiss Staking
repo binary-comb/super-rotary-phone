@@ -1,0 +1,17 @@
+---
+info:
+  name: Swiss Staking
+  account-address: "0xc21c40c94c712f17244d8518688dbaaa81ba232c15cb13dbba138ead55451e43"
+  protocol-key: pXxoUv1Gai9KW6LMmjFMsKS42iV4JfiMSQTyVTEA3EPWsvMUXQXxZDIYSwt65XZeEAdw92JYBXSXarJApNVBwFCCbXyBb5OX68XnTqYpP31g7jDaj3ZWGriNfZJ6Hk44
+  worker-key: AhuTJ1P+C+9GvUT5UTwRip78oKaNzPsgnPLq5dEnmzU=
+  network-key: N0V2TdQwZRf+gi7LB685BCc4fUJEXJnrEYT9pePDna0=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.swiss-staking.ch/tcp/8080/http
+  p2p-address: /dns/sui.swiss-staking.ch/udp/8084
+  narwhal-primary-address: /dns/sui.swiss-staking.ch/udp/8081
+  narwhal-worker-address: /dns/sui.swiss-staking.ch/udp/8082
+  description: Bare metal validator running in a former military bunker in Switzerland!
+  image-url: "https://raw.githubusercontent.com/swiss-staking/public/main/swiss-staking.png"
+  project-url: "https://swiss-staking.ch"
+proof_of_possession: oNLTdH0uazXyOh28lqq1otCQ/bYDCJn8MthzQi7F3qg0rdBWNcT/VzuxpYmMZen9

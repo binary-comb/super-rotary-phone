@@ -1,0 +1,17 @@
+---
+info:
+  name: B-Harvest
+  account-address: "0x641c736d38b329dae7879d5164566e9256825c5fc82b2565b50d45e6a6522c1d"
+  protocol-key: lfioPXwRB09m853Zd/Bbq7dN2wNWdmSlHhxAxDhkNR0gfpAyThgNV11nGDm7xh5uDoXartW6mUdpDuiwtlWraIRghFSebjUKMGAtHQ7CWndyv2SVw41vfz3GQmvRzhE+
+  worker-key: f2jJcKCE4xWvk4BBXVkTHZ5+M1+CGbhWrbeIcaMm1w8=
+  network-key: CuGyCPnYo67eEwQEMJvqVll+P19PURI3QhNpFD5xpjQ=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-v.bharvest.io/tcp/8080/http
+  p2p-address: /dns/sui-v.bharvest.io/udp/8084
+  narwhal-primary-address: /dns/sui-v.bharvest.io/udp/8081
+  narwhal-worker-address: /dns/sui-v.bharvest.io/udp/8082
+  description: Provides secure validation services for dPoS networks
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/3d5a3bd02e0c30db7949a371bbc4d705_360_360.jpg"
+  project-url: "https://bharvest.io"
+proof_of_possession: i+UcW+yKCDY3Gxu+0L86IK7nquaj5zt4b+qa1HjmGpwaRXwr7cL3BUo2CjV7cCKE

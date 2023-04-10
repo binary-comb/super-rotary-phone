@@ -1,0 +1,17 @@
+---
+info:
+  name: Chorus One
+  account-address: "0xd6edebcfa598dcb6e71037b34f09ddc6a20dd874edca1d89d5ccd11ec070d040"
+  protocol-key: lqoAlMzKNJceoBqPBEVxQ5YFoV2kmnsdcR+gPXWqYU/Fp/upgaxV9fM8xwD+XWU6EJuJPvTX+dgd/TWqoNQm9QCxqM0uTPHOmxrLMZoPwfAPTgqYvWC4aZtZ5Y3KfFEl
+  worker-key: gdmRlKfgTNg17N7bXWfyJPqIUb3jr8OhDsDjJjaA2VI=
+  network-key: KK/mC1YPP62zgVjdy7RRt/eO4UrIsSgqCJGtnB7foZI=
+  gas-price: 1000
+  commission-rate: 800
+  network-address: /dns/sui-mainnet.chorus.one/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.chorus.one/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.chorus.one/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.chorus.one/udp/8082
+  description: Chorus One is one of the biggest institutional staking providers globally operating infrastructure on 35+ networks.
+  image-url: "https://chorus.one/logo.svg"
+  project-url: "https://chorus.one"
+proof_of_possession: ry2I9m0L3esbTZwDEaXClbyBJzXe6fNgwHyIuMiZcKogCWUUje8KnJzZy3g1VgtI

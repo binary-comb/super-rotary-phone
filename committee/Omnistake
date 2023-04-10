@@ -1,0 +1,17 @@
+---
+info:
+  name: Omnistake
+  account-address: "0x0c1bebfe4c2258f16282f3ab186151c91f4349c5b2956e831a8f670a71709b90"
+  protocol-key: i0Y/KlcdUIB6H3pcsiOyw9bTff0do8PsndIEzqTwuBgVmRPfTconjcSGp1L7ZL6FACyIvgmENULvjm6i3Uziobg2PCfahghb7m2SY/JSSwWXjfgSSfphXhnaESOnbzKh
+  worker-key: xdXJCDCyO2OC/l1JnoOzsbmtF4EsO5rCoOmBux+Lo9g=
+  network-key: ZbgHEreMYks378N2uxSl7oAVp2P9vXXzrOxZBD5Bu38=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.omnistake.com/tcp/8080/http
+  p2p-address: /dns/sui-udp.omnistake.com/udp/8084
+  narwhal-primary-address: /dns/sui-udp.omnistake.com/udp/8081
+  narwhal-worker-address: /dns/sui-udp.omnistake.com/udp/8082
+  description: Omnistake is a trusted staking provider supporting multiple protocols.
+  image-url: "https://omnistake-frontend.s3.amazonaws.com/images/calculate_shape3.png"
+  project-url: "https://www.omnistake.com"
+proof_of_possession: l7iWiRHZPcm877DWRzcl5F3TLMrM+xsAM65Kd82c7LlZXyKQdB9nraV+vksf2bom

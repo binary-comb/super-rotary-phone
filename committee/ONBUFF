@@ -1,0 +1,17 @@
+---
+info:
+  name: ONBUFF
+  account-address: "0xfcb6007ef5f253d4e8ad894a4278bd780a1e1b7b5a17ffbf47f10e73b2508e66"
+  protocol-key: tV1z8f6fmOQNOgl3GaSDtnptGjQSfwufdJE3+btSVrchXzt1MvPe9FhJhUP6YJFFFssE1Oko7wSMIgcE3J32uPNIeh2qx5V3bu2VpeaAuxpvqrJ1PHkehDR8JZurhqbM
+  worker-key: l0Ga6oq04HInDWaPFDG/30oJCTLLDQHGTki0Mrl6OKc=
+  network-key: i7Ip9LJFlXE1f2mWvrRS4LH9zqDfbK+WQ+Rt7nCMACM=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/mainnet-sui-validator.onbuff.com/tcp/8080/http
+  p2p-address: /dns/mainnet-sui-validator.onbuff.com/udp/8084
+  narwhal-primary-address: /dns/mainnet-sui-validator.onbuff.com/udp/8081
+  narwhal-worker-address: /dns/mainnet-sui-validator.onbuff.com/udp/8082
+  description: We are a team utilizing global IP to create a blockchain game and NFT web3 market.
+  image-url: "https://onbuff.com/onbuff_logo.png"
+  project-url: "https://onbuff.com"
+proof_of_possession: oxJR35G5EUklgA+od1QwJKW0Atd5UOC+s1Cy2CkaahwrTph1v1RN7LGPfHoGEw07

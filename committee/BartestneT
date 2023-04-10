@@ -1,0 +1,17 @@
+---
+info:
+  name: BartestneT
+  account-address: "0x2622b55585033f26b0a86b378de1a6284c2dda531e52ef30ea87a8df81f4630a"
+  protocol-key: rv03YLO2VS6d17UaZB2bJbsTKal2s2ajHiE31DFeHRPSGJFM0XT8UjrLfzDzdQI4DbflufDyPEnj+7YtTF6rvC2ojA7/MRzY0lFov9m6faJV5u4RaiveR0c0Er6l1Qjb
+  worker-key: 7eBiTCP5Fr8okhrsT6m1qMcCrcoyljiBSiz3Ek7pAg8=
+  network-key: Xn7yvqt2MzyFBXxUqwmG4Nwh+zZ4BBC2OK0Agw809t4=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-validator.bartestnet.com/tcp/8080/http
+  p2p-address: /dns/sui-validator.bartestnet.com/udp/8084
+  narwhal-primary-address: /dns/sui-validator.bartestnet.com/udp/8081
+  narwhal-worker-address: /dns/sui-validator.bartestnet.com/udp/8082
+  description: "Experience unparalleled uptime and reliability, backed by 24/7 customer support with Bartestnet - the trusted choice for many projects."
+  image-url: "https://bartestnet.s3.us-east-2.amazonaws.com/public/logo.png"
+  project-url: "http://bartestnet.com"
+proof_of_possession: sFGmgvSGRtq8WFFeZYPQ/GqqZs9QmJtSqYbTXH41cOs+x9aajIyOyrm4DIw+8rLB

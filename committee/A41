@@ -1,0 +1,17 @@
+---
+info:
+  name: A41
+  account-address: "0x633344069731c08d06212beb1c2fd2f9d87e53295335733c3e4bb059950513d6"
+  protocol-key: gm/dw5PAZkeVxUTD0v0wmRkvoeoBfJXx2a2boVhBBBu6P4Qgnlc+jo0rf50PPCRHBMtZmdAXM/fV/eICWPR7Xp0M3GcpyJo5GI6izyFDlY/BJ7jgXFLjncj6mygQWUk4
+  worker-key: Ai/nS6ON5iFZW2aUf3ehz40JAFZtZC+nTl4CmQb0THA=
+  network-key: TSTIhOA47/7AfAAPn8hiboqYnDV/Y6gwYCd6BqdU1I8=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/validator.sui.a41.io/tcp/8080/http
+  p2p-address: /dns/validator.sui.a41.io/udp/8084
+  narwhal-primary-address: /dns/validator.sui.a41.io/udp/8081
+  narwhal-worker-address: /dns/validator.sui.a41.io/udp/8082
+  description: a41 is a blockchain infrastructure company. We provide staking service on multichain. Stake your token with us now and earn rewards!
+  image-url: "https://s3.ap-northeast-2.amazonaws.com/a41.io/A41-logo-BB-WL.svg"
+  project-url: "https://a41.io"
+proof_of_possession: qA4QJ6ytPjPKFZworZUuJuF8gFCUtb7vfz9+oPr/+baFCz2MXPBukOGHg+jliLIo

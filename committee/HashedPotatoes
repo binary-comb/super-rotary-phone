@@ -1,0 +1,17 @@
+---
+info:
+  name: HashedPotatoes
+  account-address: "0x574c1625635f7311eb6df2f5aa2f0482c33e83498063942c0585f2363fc0ee02"
+  protocol-key: remuyj9YK1/hncAalIx89fLo99AtCtFF5Fx4syb2gfhktvBSDHTjfV2Y6kAl7RhsD9zGSsKxpq5CTw7OvvmOYiDuBoReetFUCyvcH6XRybZmKHNib+sJyiHO6U/tgkYm
+  worker-key: kdSCxLHx46QTdOs3he2o0DXScX2n5H7KhwFcKt/oV0o=
+  network-key: 7EexNr7r2ZGCXWKtan3mhp060AtC/RAIoK4c4VRuZW0=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/suimain.hashedpotatoes.net/tcp/8080/http
+  p2p-address: /dns/suimain.hashedpotatoes.net/udp/8084
+  narwhal-primary-address: /dns/suimain.hashedpotatoes.net/udp/8081
+  narwhal-worker-address: /dns/suimain.hashedpotatoes.net/udp/8082
+  description: "High uptime, high performance bare metal validator"
+  image-url: "https://static.thenounproject.com/png/1129857-200.png"
+  project-url: "https://www.hashedpotatoes.net"
+proof_of_possession: ja1ZUKoqnoOfcBV7P6bOT++CXiKyq9ExP7+u9ksBc7jixkR5nmL5uRqj2FhTlxpy

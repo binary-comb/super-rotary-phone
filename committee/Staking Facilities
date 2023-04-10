@@ -1,0 +1,17 @@
+---
+info:
+  name: Staking Facilities
+  account-address: "0xc3af1f2ca3dc69a70616fa3707f67a9367f8d01d4b75a40520b931d42241695e"
+  protocol-key: jntr5tGjkPJV8lwgmCOSwQf7qxZ9/WqOu6t7a09ATvw2u3Wb0sfMj2RIA0hg3HEhCg9g9oXz+G3eqByQoSlGSN/kR1OD7EeASp2P9NrDviiSc9ut7RP/3KsQKOgkmj3k
+  worker-key: ebzgfTq8mNS1nhQWqhMGCzlCRfXdgu3TMjW58C/Q20M=
+  network-key: lmFPxxSliX5uh2bygMxVQy559cV3+S8VvKb/Ft4iADc=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.stakingwizard.com/tcp/8080/http
+  p2p-address: /dns/sui.stakingwizard.com/udp/8084
+  narwhal-primary-address: /dns/sui.stakingwizard.com/udp/8081
+  narwhal-worker-address: /dns/sui.stakingwizard.com/udp/8082
+  description: "Highly secure, available, and performant staking infrastructure since 2017"
+  image-url: "https://pbs.twimg.com/profile_images/1325435085596864514/_hq01tKw_400x400.jpg"
+  project-url: "https://stakingfacilities.com"
+proof_of_possession: t/hKR4K6KxfB24pMsU2vkbN7jnJBAMq7JsSBcKjY2Qa+b8VwBw66dS203JH8EY8R

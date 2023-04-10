@@ -1,0 +1,17 @@
+---
+info:
+  name: nelrann
+  account-address: "0x4430b86069d8850d9bee199739e5fc90bb0f323a5a7735f431ec7a5fb5409e6b"
+  protocol-key: pb0G/X26Ihz+1MqLQP9xp4OZ8gozB0JmaUX+1I1hkHtYeAkDmWY3UMLtoDEQEV0TAlQjgq1g5sCLvIEiT2bbZ7JkosEYawgK/1lFwb7t66ta8qzvDV5EzLuApocjFa0e
+  worker-key: YewSLb9nLiV6ul8v0K68otJeg3PYD5cqz3SG7wFiGDc=
+  network-key: Z1wCh7iR6NPYdAwmA1+R1McSqxlDIoBoJWrKMTQmxeg=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-validator.nelrann.org/tcp/8080/http
+  p2p-address: /dns/sui-validator.nelrann.org/udp/8084
+  narwhal-primary-address: /dns/sui-validator.nelrann.org/udp/8081
+  narwhal-worker-address: /dns/sui-validator.nelrann.org/udp/8082
+  description: Nelrann is an independent validator that helps you securely increase your crypto holdings by participating in decentralized networks.
+  image-url: "https://nelrann.org/build/images/logo.png"
+  project-url: "https://nelrann.org"
+proof_of_possession: mf4O9rKhRLmL15cxeaoe+sPcfHxf+SaxP1He00dPkhRiTkRZ34wdz3SI9blEVBN+

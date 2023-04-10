@@ -1,0 +1,17 @@
+---
+info:
+  name: Blockdaemon
+  account-address: "0xceb2b8c295ee322cd299e4bdc3d3d0dce1dc9c85eb683f7d82ea2e4f8f4e259f"
+  protocol-key: lN8gjhk/uZU8OCwW8dnZ++7zBNcyi1XI/nFMgo3OkfkdplBmmK3WkDYQBLK40bcTF2Uqax+OiiAjCHR2aMnB4x6tXbP9pziHRtOVl4vttWNVWcLutCgvjOmcTHRq6mlv
+  worker-key: xmGZqcnj9ojJdxEchKNPT3UXkLturdCDhCEJJF9hZmc=
+  network-key: KurSkhjHl1kwNuroFP/SkgVAtkoX6jVPGkWAgBNNUqk=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/bd-sui-main-validator-01.bdnodes.net/tcp/8080/http
+  p2p-address: /dns/bd-sui-main-validator-01.bdnodes.net/udp/8084
+  narwhal-primary-address: /dns/bd-sui-main-validator-01.bdnodes.net/udp/8081
+  narwhal-worker-address: /dns/bd-sui-main-validator-01.bdnodes.net/udp/8082
+  description: ""
+  image-url: ""
+  project-url: ""
+proof_of_possession: pzMhrylqXNpdrVLdIC20xMCHchfiDWmrCxnhfU/1BYkuB3e8fIZ2JbpRMEfwGbzc

@@ -1,0 +1,17 @@
+---
+info:
+  name: Parasol
+  account-address: "0x054f9044e0fd71c2ff621981c332ba41d686fb705143d1dfd3a3b69a46e8f66e"
+  protocol-key: gwCmyWlK9D8ILEs9r1/NzJxZPCTHbiiZPqIMt8SlUYqyJ7+RgF8Z26R/rKUiNAJIBUqKudt4IjCKFGkv1y78UJS4agBHJ/sQpSOJ22Zq4UoJ1ErOxiMbLF/QY4sP9BZO
+  worker-key: 8YF37L7tk+KrXr/r30qLYRPv0n2LpMmvXY3EyfXaeDw=
+  network-key: 4baeItc1U/3n+KfkGqnwSWhXQ97SgxdUWs1WOof7tUc=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/mainnet.parasolsui.com/tcp/8080/http
+  p2p-address: /dns/mainnet.parasolsui.com/udp/8084
+  narwhal-primary-address: /dns/mainnet.parasolsui.com/udp/8081
+  narwhal-worker-address: /dns/mainnet.parasolsui.com/udp/8082
+  description: Parasol Technologies SUI Mainnet Node
+  image-url: "https://parasol.xyz/assets/images/67dc2fae592a8544.png"
+  project-url: "https://parasolsui.com"
+proof_of_possession: ll//dWWKDYd3dW9EBM/jmQORlfGwKSe3xG4KeEVj4sK7W5XDgfXA2U70EQBJ7lno

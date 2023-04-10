@@ -1,0 +1,17 @@
+---
+info:
+  name: Stakin
+  account-address: "0x9b8b11c9b2336d35f2db8d5318ff32de51b85857f0e53a5c31242cf3797f4be4"
+  protocol-key: o2aDrlUsSAZGfvZGrMDMnvbstVvAaBInr0M5uFov+7P1GsVMTiV3yVCoUgubySzXBXuxkJKcx/cEXNZcePyQ3T31w9SFmivH8f1r2IJufTuBCJqR9xjbLXrjepoJfNps
+  worker-key: 4D877qNQ5rRBqzpZNZN2zaWK4CD1jmnY8x/anaLZ/vM=
+  network-key: J1q4k3Hok7HLaExEiQA66VKQ67VZjzI7BMWJcH/VBVw=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.stakin-nodes.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.stakin-nodes.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.stakin-nodes.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.stakin-nodes.com/udp/8082
+  description: "Stakin.com provides reliable, non-custodial, compliant and secure staking services and web3 infrastructure for Sui and the Sui ecosystem."
+  image-url: "https://stakin-data.s3.eu-west-2.amazonaws.com/round.png"
+  project-url: "https://stakin.com"
+proof_of_possession: uR9O7TXPXi7FCUnI14lXvflDEcPpSW/Y8iLmm3K5ts5IjOO6H8Llu7T3VMr+yuy5

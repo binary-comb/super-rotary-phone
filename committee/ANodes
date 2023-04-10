@@ -1,0 +1,17 @@
+---
+info:
+  name: ANodes
+  account-address: "0xa2ae7af4173722d07df5096a52f305f5d94578f4b78d301056a4b3b05e636488"
+  protocol-key: sWszg8cseCuYY93DD8zRX1xLtSfRnYjq6kBNodwRfrL7nmbs2gNU5tRHZ2pki+IvC3SH/sTonviafsvaOBQfGEnrRmaZxPdllPJLJA10mbMCoTIn4aw7cqzR2WjkNGqh
+  worker-key: xN+VXjfWtf3rhAzISnv13beFEImpURzOJdoYQWavB64=
+  network-key: 8EZ/nAwFHhD0/iG2i6wuErnYnb/Kq6OF3FgJZrhKUJQ=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/8.217.53.250/tcp/8080/http
+  p2p-address: /dns/8.217.53.250/udp/8084
+  narwhal-primary-address: /dns/8.217.53.250/udp/8081
+  narwhal-worker-address: /dns/8.217.53.250/udp/8082
+  description: ""
+  image-url: ""
+  project-url: ""
+proof_of_possession: uS6YCUrbZytbBZ/9ekXsj7RWzqYqGPleyMZQT6JxanLTfHt/IqF3aUtZEesmaf6X

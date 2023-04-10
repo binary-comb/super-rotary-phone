@@ -1,0 +1,17 @@
+---
+info:
+  name: flipside
+  account-address: "0xc6b70330451f4c163ce75625510bf99a8c782a5c5b1dd400a08fc20b2086dc00"
+  protocol-key: q2gIoSrZYJlBRxwTCd5fOKM7SqtEJHXcyv5/e6y9IvDtpukidwn1cyBjzcq0ujbqB8sMmwjxUQmwfOhnpunvejrLb/9BpSe9tuba68SWf4gKVApUvgonCMCSEJsbJspv
+  worker-key: klv0ig+zE8ywdpeVXd6G26itP1XY5yINkyeId+V4ZJ4=
+  network-key: ViuKjXqE1M3jI993fNZ0No/JEFCjKKhHICyCwcVQ8Ks=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.validators.flipside.services/tcp/8080/http
+  p2p-address: /dns/sui.validators.flipside.services/udp/8084
+  narwhal-primary-address: /dns/sui.validators.flipside.services/udp/8081
+  narwhal-worker-address: /dns/sui.validators.flipside.services/udp/8082
+  description: The Most Reliable Blockchain Data
+  image-url: "https://data.flipsidecrypto.xyz/wp-content/uploads/2023/01/cropped-FLIPSIDE-ISO-BLACK-e1673095172488.jpg"
+  project-url: "https://flipsidecrypto.xyz"
+proof_of_possession: qXcS3iRL7kgWeZvJhJeoAyre2hkxEYekjQ9y4+BihPKCBAThtT3hX3JbCmEghTdL

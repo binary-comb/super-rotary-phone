@@ -1,0 +1,17 @@
+---
+info:
+  name: OKXEarn
+  account-address: "0x00ae78d3e5ba5d6b8de32455474f52811b95617cbad39ebf4f9e2daf67187407"
+  protocol-key: tPXVIhIm9o44a2aFVgy7hdHDyA4FJaV9au3Ei5BnhVplqlzMD+2hDXuyURrz60fKEFfO0iY28QWzz6VdpHEH4uZalSZ7FXFsRh32qUHm4QhRB+p3zjWwjo8SKje90iy3
+  worker-key: dSO8RET9IaPjGfLR9SslfFaolgGTXSkmohFCrg7WXXg=
+  network-key: UamRHf6oWOgeq1L6xP0lGrVv+XNWFx8NHs5YbFmEQhs=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/3.112.171.175/tcp/18080/http
+  p2p-address: /dns/3.112.171.175/udp/18084
+  narwhal-primary-address: /dns/3.112.171.175/udp/18081
+  narwhal-worker-address: /dns/3.112.171.175/udp/18082
+  description: OKX Earn serves as a one-stop shop for all the decentralised earning options available on the OKX platform and we are the leading staking service provider for blockchain projects.
+  image-url: "https://raw.githubusercontent.com/okxEarnSuiValidator/OKX-SUI-Image/main/OKX-logo.png"
+  project-url: "https://www.okx.com"
+proof_of_possession: hPV4Q8yHyNcxm9RKxcfJdh2wD9Myj7k+mTZ9pgOXWx5rFHOmerAEwJvocfUqWp74

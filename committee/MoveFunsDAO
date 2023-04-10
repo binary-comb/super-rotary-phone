@@ -1,0 +1,17 @@
+---
+info:
+  name: MoveFunsDAO
+  account-address: "0x8a0907e2990baebbbb87c12821db4845b034e45f937167e68b4925ac3465335a"
+  protocol-key: sX8iI79bNpZkRJLu6AvNM4sVk7kQ13ZhFnRI2NJSojd0LmNsMju6OnrBMyG3SCLyDTOUqsAr+t8QHkxUfBSIubqkWwMqhkmOoE2u96d95w4SIvuJtlZWtSMMchW0sGOy
+  worker-key: IYjzEf1uOjau4km3kiIkQDQc0arZsYf2A99+lb3VAro=
+  network-key: 9t7pUNhe4UlfSjnFh/f1qvXLS88oZdrnG6cKw47NeD0=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-validator.mainnet.movefuns.org/tcp/8080/http
+  p2p-address: /dns/sui-validator.mainnet.movefuns.org/udp/8084
+  narwhal-primary-address: /dns/sui-validator.mainnet.movefuns.org/udp/8081
+  narwhal-worker-address: /dns/sui-validator.mainnet.movefuns.org/udp/8082
+  description: "MoveFuns DAO is a DAO for Move developers, with the main goal of uniting the developer community to build a across multiple Move chains ecosystem."
+  image-url: avatars.githubusercontent.com/u/112075428
+  project-url: github.com/movefuns
+proof_of_possession: oENFuaVc6nXR1Lg4mGlsilmo+Jau/MEyPVUbQtph2CL0LMkxnRfoM4VC/buF0+4J

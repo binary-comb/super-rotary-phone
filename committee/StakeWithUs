@@ -1,0 +1,17 @@
+---
+info:
+  name: StakeWithUs
+  account-address: "0xa36a0602be0fcbc59f7864c76238e5e502a1e13150090aab3c2063d34dde1d8a"
+  protocol-key: tEYrgEBlsgYyT5I6U8KlYPOtbRdX0Eding4LjBJnPpP2t8j05gEO17a7hWrK+MnPCsPKtvxwUuhee2JJvfI0vl89B90KQ1iyzhZAbVCaInRUXnom9vtLFEGrKY5DLzCi
+  worker-key: /MlxuFbxQWxU8nnDUc349KWdFntZi4jnvARg1qVMGoY=
+  network-key: 962xWyhwdrqQnx0punmpHnzbMBTTBT43N+i5NtcP/OE=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.stakewith.us/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.stakewith.us/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.stakewith.us/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.stakewith.us/udp/8082
+  description: Secured Staking Made Easy. Put Your Crypto to Work. Hassle Free.
+  image-url: "https://raw.githubusercontent.com/stakewithus/sui-testnet/main/stakewithus.jpg"
+  project-url: "https://stakewith.us"
+proof_of_possession: pfGq3tOSb10xlMkPTSgmniRhtM4AWoixCcfPCZ5K3kVh06oJT6fKkPVDZa8kBLcC

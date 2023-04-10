@@ -1,0 +1,17 @@
+---
+info:
+  name: Everstake
+  account-address: "0xbba318294a51ddeafa50c335c8e77202170e1f272599a2edc40592100863f638"
+  protocol-key: jRw4rSwKm6E/HYLG0xjLLW+i9VOGlnYVhuKfkx27APAV1eXtl99yHSOrvilK0Vs8BwhqEFpncL063X8sOwtOvuYBzgzHF7BW6m//ylgj92+5omjZ35u4rF1m8zRU0C/S
+  worker-key: MGDlzCUlWq7y2qZa0qEzky35osH9Z+jM0rD+O2NVsDY=
+  network-key: Ly1BxC3Rk++CV5AWZfzIADzoxgTEl7a5VNi1bFeuR/I=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-main.everstake.one/tcp/8080/http
+  p2p-address: /dns/sui-main.everstake.one/udp/8084
+  narwhal-primary-address: /dns/sui-main.everstake.one/udp/8081
+  narwhal-worker-address: /dns/sui-main.everstake.one/udp/8082
+  description: Everstake is a responsible validator trusted by 625k+ users across 70+ blockchain networks. Created by engineers for the entire community in 2018
+  image-url: "https://avatars.githubusercontent.com/u/49940420?s=200&amp;v=4"
+  project-url: "https://everstake.one"
+proof_of_possession: uCgMZK7tId4gnzVn/hr1z5buFC+u2b+/RSyO60o26qF+/sNWd+wA//6l4bNHExcS

@@ -1,0 +1,17 @@
+---
+info:
+  name: Gaucho
+  account-address: "0xdead0072f3a00a250cc8dd90315e92822130258105a494f831ee9bb1576fd71f"
+  protocol-key: gPppt5z5zAin3D6xRm5BwoyzMmJFLacVDO7n8KI4NzUXtAW5w0tieB0crjeHAMuGFKbCLmQflrepjZhrgmfPBEyvcB6djInd8PtSgLXAszYCOzcMw2XyAmPBBDnf102B
+  worker-key: GpHKGfFr7uFIWn6apFrwSAtrRWDGoNSLEiROXPdnMW0=
+  network-key: 0h4PSnhtdAwXdVn/Aqy4oTbOuMdYSaYKUaV2YiyzZcY=
+  gas-price: 500
+  commission-rate: 1000
+  network-address: /dns/sui.wizardfiction.com/tcp/8080/http
+  p2p-address: /dns/sui.wizardfiction.com/udp/8084
+  narwhal-primary-address: /dns/sui.wizardfiction.com/udp/8081
+  narwhal-worker-address: /dns/sui.wizardfiction.com/udp/8082
+  description: Operational Excellence on Bare Metal
+  image-url: "https://user-images.githubusercontent.com/17627585/227722974-ccc505a5-5de8-43a3-b472-f0bc150a49ef.svg"
+  project-url: ""
+proof_of_possession: i8EeoRPh4sQC9ZToDBWhknFRuq0EuUyYwwIHq5qc0QTOHFRnRkcSBvy8WKH/dlhG

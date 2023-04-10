@@ -1,0 +1,17 @@
+---
+info:
+  name: QuantNode
+  account-address: "0xe0e042d1aacba8abf6f32be86c555a08eae5ba2b7972c912f7451104391e8c57"
+  protocol-key: ljwIccgQQZFMUx+l6LbO0hgDfag4wtJk/voiLMKlHNEfVi2dE8/L5I428qabeWPWDrWG4fbvvd14rmXCqKOSy9T5hPCqHN/LEU72umjaL7qeiwmId/4yqCLCAz3IAJQF
+  worker-key: ArBZFGkE6sAXPkkQIInjmN9p3ydEjuFofmracuOPs8k=
+  network-key: wGPflFrnuctlq+KuEQjHuVUfi8r7Ep1XLy1PcY/b/gs=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/validator.sui.quantnode.tech/tcp/8080/http
+  p2p-address: /dns/validator.sui.quantnode.tech/udp/8084
+  narwhal-primary-address: /dns/validator.sui.quantnode.tech/udp/8081
+  narwhal-worker-address: /dns/validator.sui.quantnode.tech/udp/8082
+  description: Safe & Easy2Use Staking Provider. Supporting networks at early stage
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/2fbc53bbb70fd61975bd33ae6e495605_360_360.jpg"
+  project-url: "https://quantnode.tech/"
+proof_of_possession: rVzee7v/JdM+1RSRKVFQsJ6UcpuO9Bwn21JiXj6ImmYaUc/21end76WTDLo5qDJ6

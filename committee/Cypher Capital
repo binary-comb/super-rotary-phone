@@ -1,0 +1,17 @@
+---
+info:
+  name: Cypher Capital
+  account-address: "0xdfc9709adae2917a9be213c8d651b150517fbc8b99106bbd3020e618335ccf18"
+  protocol-key: hQHBIcPN7K+EOralnSu3SYHs1rgrQNpjN3YhK+g9R2uUQaXr29OgALXf1F/SJL/mBRZGZ5g7EE4MbdUMlO+v7tcvBl+qWoZMWDMdeVcxRbA/emrXtVFWzaEpYgpbyncy
+  worker-key: ge/wqG9qJS+fCgQODJjhlOaMV7ur46S6dGLePpOB/KY=
+  network-key: U89bXkoIrgUMdtgkjKBgmcMEdDDEXTx5N4D37fZ08IM=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/cypher-mainnet.juicystake.io/tcp/8080/http
+  p2p-address: /dns/cypher-mainnet.juicystake.io/udp/8084
+  narwhal-primary-address: /dns/cypher-mainnet.juicystake.io/udp/8081
+  narwhal-worker-address: /dns/cypher-mainnet.juicystake.io/udp/8082
+  description: Cypher Capital is an early Web3 multi-strategy venture fund
+  image-url: "https://knoxnftswap.s3.us-east-2.amazonaws.com/Cypher_Capital_Logo.png"
+  project-url: "https://cyphercapital.com"
+proof_of_possession: i4nD/cjwp3VjsmumJqOQIJcJO+c6dBaOyDIVZiYvozT4SlYyPjPJ1nkZyafOkLBI

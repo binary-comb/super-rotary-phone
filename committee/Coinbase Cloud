@@ -1,0 +1,17 @@
+---
+info:
+  name: Coinbase Cloud
+  account-address: "0x0350925241ae8d4083fe4b1104e14dd28d2ffeced9d7575551c50c41b99995fb"
+  protocol-key: kKKuiotvJ4qxyR2Qe8pDJttoCsI5fiQVBXWQl+wofOEY9xUwUQPlXB/9PjVhEXVtFakoZUPULbEe1Y44w58ffjPi0H4ogkoYCt+o9Z7EiqIcYAKsQ3ahpCX3qXaHGjdw
+  worker-key: aMpa9AShaEEtrYObxvFtnxlU+/9webyhORmPX1O4Faw=
+  network-key: 2ih3Gb+CKXnTZn4B0/9br6x81xoDiiVha71OYX7U/bo=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/p2p.7861b075-7a9d-4ed7-a4fb-a861830573e1.sui.bison.run/tcp/8080/http
+  p2p-address: /dns/p2p.7861b075-7a9d-4ed7-a4fb-a861830573e1.sui.bison.run/udp/8084
+  narwhal-primary-address: /dns/p2p.7861b075-7a9d-4ed7-a4fb-a861830573e1.sui.bison.run/udp/8081
+  narwhal-worker-address: /dns/p2p.7861b075-7a9d-4ed7-a4fb-a861830573e1.sui.bison.run/udp/8082
+  description: Coinbase Cloud provides a suite of easy-to-use products. Our mission is to advance the crypto ecosystem with secure and reliable infra.
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/a1413845d3aa5e3fec212768c3a87c05_360_360.jpg"
+  project-url: "https://cloud.coinbase.com"
+proof_of_possession: ha0nPJsMeXnmo20i55SIjV0UItWeP1++fRgSUlG59ehGIpuBk7oZnpZBlkieo6CT

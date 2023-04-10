@@ -1,0 +1,17 @@
+---
+info:
+  name: Astro-Stakers
+  account-address: "0xf4da1d0d8eba4aed89542daa6d720fed039012f36a2ec42563c9adb50726a09c"
+  protocol-key: gRK+r0Uf/hp3sQgfkkdkN6hqx6ABrc6PZEhPJVnfMpVFp5vLBtgbU5H3mvGZD66WElXQytyHUJ8V+5/PVeCdK7rS5cXcQXTJ8ldF4s3scsq0B18W1+2SwGHdoRX6X20D
+  worker-key: 0qFqlIdq+IkThJRldEA/7uDHunS8ThBFEQOL1rwQ/Mk=
+  network-key: ewoX/i09feuD1mj7l7Aza/+5QQh8srzOQryLb0DXPlE=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-main.astrostakers.com/tcp/8080/http
+  p2p-address: /dns/sui-main.astrostakers.com/udp/8084
+  narwhal-primary-address: /dns/sui-main.astrostakers.com/udp/8081
+  narwhal-worker-address: /dns/sui-main.astrostakers.com/udp/8082
+  description: Secure staking validator service for the crypto community. Built & operated by a Silicon Valley engineering team
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/3cafc4d28d6ec789c62939e031f8b305_360_360.jpg"
+  project-url: "https://twitter.com/astrostakers"
+proof_of_possession: inOkVeDVPsisJExXSqAN5ZbElsoVHoCCRwdWIt2+U0ccIXib8m9iLqNBt/z9HZw6

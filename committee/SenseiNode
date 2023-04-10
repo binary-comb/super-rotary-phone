@@ -1,0 +1,17 @@
+---
+info:
+  name: SenseiNode
+  account-address: "0x0ae4b2b4ed34dd551a01a946e51c0c431726faf5568659560f76b31642588468"
+  protocol-key: o+XXM4yg5QAK+Nt7xJAp6g03bPztUGa9ykQRI5vC/h1o6Wy8gTO19vqGROzmXOWACGBFVx/edWGBAogzImLmXk9IQKjZ2cLoglbt1TTIgaVOvX3cMlkaM2CELdvwuYtx
+  worker-key: +hKmQy1Fe+yApLmB08LntEK51i8liFisY+9Yfsdzv14=
+  network-key: 6fn7Jzx0FJbDakTp9ZZiCTh0JbGiU5P188t27mwidMY=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.senseinode.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.senseinode.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.senseinode.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.senseinode.com/udp/8082
+  description: SenseiNode is the first institutional-level blockchain infrastructure provider in Latin America
+  image-url: "https://strapi.senseinode.com/uploads/Frame_bbcbed197b.png"
+  project-url: "https://senseinode.com"
+proof_of_possession: pasHydAvTiSOn1gPHKC8icIOm31hRqX4xC8YlNU+RccI/Ri+6hiQfL2QsJDr0i11

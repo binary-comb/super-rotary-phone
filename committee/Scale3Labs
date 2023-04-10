@@ -1,0 +1,17 @@
+---
+info:
+  name: Scale3Labs
+  account-address: "0xf9c6994c28a882fc87c0e69a44d0bf29796ff8256621d26eea49f3d776c6133e"
+  protocol-key: ptA3fMujGqG0DIF5O5mLcY8Oo4vDgtyur0WiuAgWuUtxSVkPWiDwVa+JAKs0l+ucASNqIUFZleea/5sEfevVc8end0BbYnhgAUYy02jnSuSw+02uVJiddlRnLFAHRdPY
+  worker-key: pF8leGhcMKN6GJoVVKp9JA0lhnNUjXFw+swfQlOT+98=
+  network-key: oInDxNgSkbT/CsxC6+rXbafoD6pNYe6+jhu2s0Qp4ss=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet-validator.scale3labs.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet-validator.scale3labs.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet-validator.scale3labs.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet-validator.scale3labs.com/udp/8082
+  description: The web3 platform for monitoring and maintaining your blockchain networks and nodes.
+  image-url: "https://avatars.githubusercontent.com/u/110545750?s=200&v=4"
+  project-url: "https://scale3labs.com"
+proof_of_possession: uD6C21J3Nip2IGWV3AK/zIRip1CL8Yjx5slgHwy8cWPBhsn4wHaxlPI+zMNOfndx

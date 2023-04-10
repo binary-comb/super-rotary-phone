@@ -1,0 +1,17 @@
+---
+info:
+  name: Chainbase
+  account-address: "0x91b3d7211dbe057d02e2aa06f1cd678f1408438d494d2e783e0b67a77cca4599"
+  protocol-key: jhbu2xiJIPCqysDPHWtz3bhRNCQ6PqNASO0Z0fBYrxkj2/7S58cBibkq/oBZN/ADB+zdgjNP69ecl7ilWKU3J1zvXUClgffl2P46JEFo63K35RMTIVZCZRcIm2IK3/EU
+  worker-key: L6owzOHxDkVSFYJCDSu18mofJ+4YkIV1KzXjINx14qE=
+  network-key: +iw8gHH4S2jNbC/fRPzZFlUH6Y1V6QK80kpcbeF/1V8=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/mainnet-validator.sui.chainbase.online/tcp/8080/http
+  p2p-address: /dns/mainnet-validator.sui.chainbase.online/udp/8084
+  narwhal-primary-address: /dns/mainnet-validator.sui.chainbase.online/udp/8081
+  narwhal-worker-address: /dns/mainnet-validator.sui.chainbase.online/udp/8082
+  description: "The #1 Web3 Data Infra | API, Pipeline and Datasets"
+  image-url: "https://chainbase-static.s3.amazonaws.com/logo/Icon_Black_128.png"
+  project-url: "https://chainbase.com/"
+proof_of_possession: sozmc5XolbcUgd5KxhD2zYOyIdxNCdj1STL7+xmdLdHPhL9DXRQw2iJfqWSmzQdC

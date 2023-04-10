@@ -1,0 +1,17 @@
+---
+info:
+  name: Luganodes
+  account-address: "0x7e254f0f55e24b8a6995567241618f750d0d94f2cf49b36703869779d2ee4327"
+  protocol-key: suZGxE1JSKbrc8RIe5n/S17VTnv337BV5VfFNFbbiYS/ivy4aMqdqz4rZ8nq986SFDVJqEnRF/dCrzUdIO7B9hD7jWzaCXA8vMlzDGIfT74Iq6quZRwAmagZySSuVJWu
+  worker-key: 4qfK0UycfTRY4vDgbZAyWC01TnwbVUooHttTSM5chXo=
+  network-key: 7cDA7OhKs77709TIBtJbRNDzIEhCao6PAx9QEuhZpUY=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.nodes.lgns.xyz/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.nodes.lgns.xyz/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.nodes.lgns.xyz/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.nodes.lgns.xyz/udp/8082
+  description: Swiss based leading institutional-grade staking provider
+  image-url: "https://static.lgns.xyz/logo.jpg"
+  project-url: "https://luganodes.com"
+proof_of_possession: lz/pKOc0IsNEPFvv3XCOhF2l7qK6LRKTbimIKM6221HH+OpAC7fxRjANXtR/RSeH

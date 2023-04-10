@@ -1,0 +1,17 @@
+---
+info:
+  name: Google Cloud Web3
+  account-address: "0x25351276ab5b685c014b193ab71be3fc77ab8ee1a020a06d6174dbc18986a06a"
+  protocol-key: kMVjCtVVk9qBwkTTyMGvWq4EOTqmwnPEbNWyLCcXHXlDjVJ7qAQex5NT9n1QGrjsDZ/nHDlLh7Ga6uhAc9so+ucgRPy+HA3wUTQ3mnFAVMvY761hk+w1+4CXgVlR0Avh
+  worker-key: DE+BPnwrXJ1BCAzXThV0G9mfKqQOzMsOXljc/N+Rglo=
+  network-key: zfyfWuUuex/oiEDh4Oj0WQrhygRPeL/+w1zbxPyGui4=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /ip4/34.27.198.206/tcp/8080/http
+  p2p-address: /ip4/34.27.198.206/udp/8084
+  narwhal-primary-address: /ip4/34.27.198.206/udp/8081
+  narwhal-worker-address: /ip4/34.27.198.206/udp/8082
+  description: "Build and scale faster with simple, secure tools and infrastructure for Web3."
+  image-url: "https://drive.google.com/file/d/1dFSwp0PLR8XM19saxYJGGWhFoF-RRGQf/view?usp=sharing"
+  project-url: "http://googl3cloud.com/"
+proof_of_possession: hDEsap4H4vbgeIYU9m8bOE40+oSDmwUK7kuxPhxqBqGcPdNXT4UTH1AeFO/FYl8Y

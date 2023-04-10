@@ -1,0 +1,17 @@
+---
+info:
+  name: Allnodes
+  account-address: "0x885c0345bbf4441f39b98caf2295640a4dc3696ee9e8bc68f2101ca5e6f9bbf1"
+  protocol-key: llAK/cn9To8WgnG+jgLPFToF10s+AKK/uyItYUysYa/ICPy/akwILKjR3sjl4NT1EjFVAs34JddG/K+TMRzLx3sQafHdtyRnXenpht34re6wy+9ldHUMyC/Ar2Y5Yfzk
+  worker-key: sTWjTjikCoh1t3i/wOlpSGGY7rUWToDiSWZZ64C9ovE=
+  network-key: rhu31fM6QE1WiqydiwZQVSVSM851Qv/LXjw48wpKYX4=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.allnodes.me/tcp/8080/http
+  p2p-address: /dns/sui.allnodes.me/udp/8084
+  narwhal-primary-address: /dns/sui.allnodes.me/udp/8081
+  narwhal-worker-address: /dns/sui.allnodes.me/udp/8082
+  description: Reliable non-custodial Validator run by the industry leader - Allnodes.
+  image-url: "https://www.allnodes.com/assets/logo.png"
+  project-url: "https://www.allnodes.com"
+proof_of_possession: pziHtHWZ/cZXKboMqmj0zA3oZrUKNuulEgTB/GwOvPa8S1Et5gwBHbW0M35g8TJY

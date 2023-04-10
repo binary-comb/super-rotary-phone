@@ -1,0 +1,17 @@
+---
+info:
+  name: Stardust Staking
+  account-address: "0x96c01291eb1d4f02aacc1e466d2980a8fdfbea96661ad8da4f8569af49b619a1"
+  protocol-key: kQCvDI6f4/5IO5zAIxw7mIhWcik1/36271Q/rMTbn/NFU3BQqUkatJPEG0EZ9VqjCfESkzLghBW2pqoBEXnqhsrHFS9D2Jfq7iRMXsmLX1pwMy2+3KwUzlb18Ipqaqhh
+  worker-key: r0ZQa1acAfFJ1CpGTFiusRo9wmvNpyw80PnPJX0UcRA=
+  network-key: UmEJ+bBB9FxOTbmgVkKlKTHUHht6MxGIFokvE2Jxftk=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.starduststaking.com/tcp/8080/http
+  p2p-address: /dns/sui.starduststaking.com/udp/8084
+  narwhal-primary-address: /dns/sui.starduststaking.com/udp/8081
+  narwhal-worker-address: /dns/sui.starduststaking.com/udp/8082
+  description: "A secure, low-fee, and trusted non-custodial provider for PoS protocols, operating validator nodes to support diverse blockchain networks with reliability and transparency"
+  image-url: "https://starduststaking.com/stardust_logo-4.png"
+  project-url: "https://starduststaking.com"
+proof_of_possession: lLstW+kV/KnVgmeVI9ShMvv+vNQJltnyFw3ZiWQHenXLxAyoaS0oFmIWPRSZmU0/

@@ -1,0 +1,17 @@
+---
+info:
+  name: DSRV
+  account-address: "0x6f4e73ee97bfae95e054d31dff1361a839aaadf2cfdb873ad2b07d479507905a"
+  protocol-key: qVVlhyH6YXw07KX09Rv0aPOFV6PpxaSncgna7RO8CQ860wLZte1MU/m6OGEPR1T7AXepfKPvD1CdXLZXYqJbsnQ3vYl/yZ2yunW9Ydd1huUv0vJ5pvOE/gh3kkB5tVx9
+  worker-key: KOCVurcFP1f2OaxJT2uLyT7c2Estm6FJoixdcqxn2cg=
+  network-key: ysDnrm+FsRxOJh7gcacb6E6YpX35SZqCVPOw83NBUww=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/validator-01.sui.dsrvlabs.net/tcp/8080/http
+  p2p-address: /dns/validator-01.sui.dsrvlabs.net/udp/8084
+  narwhal-primary-address: /dns/validator-01.sui.dsrvlabs.net/udp/8081
+  narwhal-worker-address: /dns/validator-01.sui.dsrvlabs.net/udp/8082
+  description: "Everything distributed, served complete."
+  image-url: "https://raw.githubusercontent.com/dsrvlabs/sui/main/logo/favicon_black_square.svg"
+  project-url: "https://dsrvlabs.com"
+proof_of_possession: pb2SfjvcFtUDNeLKDWoD5o2YI0V21oyMvPmmnt7pf6Bn8sDGrczDLpv5gLV95WHa

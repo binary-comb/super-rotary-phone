@@ -1,0 +1,17 @@
+---
+info:
+  name: SynergyNodes
+  account-address: "0xcda5da2f66fae9abe9620900c4e91d5b72e514b01fc17fbb27587e6c3f3b9f36"
+  protocol-key: t2kdLmhYSfXaEQKG3Hjwd00BIMwsRBeeGeGxdirUZGwTJwMMw27B6vEAfo2qDM1kDUK5JiRp0tefoX/1I4M+8oc1jgE3zJ2fDspvJvSXuvV+DbK3APIhTaU+qyKfusSS
+  worker-key: BqAwLferMBPuQ3PvuR1JiU0uK//KJbGOdCyqe6Rbl+g=
+  network-key: zITd20sMA07w/V+VGM+Gd1DrGvMAKWVmUv3C3m0Q1OQ=
+  gas-price: 1000
+  commission-rate: 1000
+  network-address: /dns/sui.synergynodes.com/tcp/8080/http
+  p2p-address: /dns/sui.synergynodes.com/udp/8084
+  narwhal-primary-address: /dns/sui.synergynodes.com/udp/8081
+  narwhal-worker-address: /dns/sui.synergynodes.com/udp/8082
+  description: "We are operating a secure, stable Validator Node for 12 mainnet chains. We provide core infrastructure support such as RPC, API endpoints & more."
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/61a3437ae2315c13eafec83cd2482b05_360_360.jpg"
+  project-url: "https://www.synergynodes.com"
+proof_of_possession: uNyCqIp6AqfuxgZzwnr55KDdqRNkj9GgF56k8YXM1tR94kr6IPTV2fOQhkhyc/vQ

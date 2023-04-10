@@ -1,0 +1,17 @@
+---
+info:
+  name: ContributionDAO
+  account-address: "0xefa5f0435f230579dc95f219a1a8929f91b98cba727d7c1de8b10738be431ade"
+  protocol-key: o/Dc0BRcRE1GWdmmsb2ItUILgPapRKpfHbWBVIWyU6AuOj1XpdALGJKu7GPjyJE5CdaCuuK3Bib37da5GDpnVgj3VtjXIQFWgi6eocg7l4vnKFtbsd8EFMzjd0A2O96f
+  worker-key: KzLsJgoAmAJ4NoZrMcif4UsyCTIBDeWLxGiB2QEcmmo=
+  network-key: mrR4FQxjzoIzED2cVcuTIqBbkU3xIDel40HeFiFkIWQ=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnnet.contributiondao.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnnet.contributiondao.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnnet.contributiondao.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnnet.contributiondao.com/udp/8082
+  description: Bootstrapping Quality Talents and Onboarding Users to the Projects for making opportunities in Web 3.0 accessible to everyone.
+  image-url: "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/brand-assets/cdao-logo-white.png"
+  project-url: "https://contributiondao.com"
+proof_of_possession: grSSnL0JDn8vsGY5tmjK0Pa6PW5+rgRs8GEf8Z7snf9W0g9BEQQqw8R1oK6BPGlC

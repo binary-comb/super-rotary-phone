@@ -1,0 +1,17 @@
+---
+info:
+  name: Aftermath
+  account-address: "0xd30018ec3f5ff1a3c75656abf927a87d7f0529e6dc89c7ddd1bd27ecb05e3db2"
+  protocol-key: roA5+QeBDoF8KS8n4wcBfLyA4gqrGR0K5ShEcF3fbkGaB+UBtj8Mnd26kC4ELnjzDCSE+c9Gw/j8z30YqxAIfwvmLjf+2QFdOIyQqmtxoxlL6WWmTJ5sSRD0T7O6VICv
+  worker-key: p4Ps9t7w01lQOJIR4DfQ1ZU4i1U0PCYNJ96XM4KVJE8=
+  network-key: etpq3G+il7WLEdEwuiuVyFdcEcva7xvk42XXocOlE9I=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/validator.sui.mainnet.aftermath.finance/tcp/8080/http
+  p2p-address: /dns/validator.sui.mainnet.aftermath.finance/udp/8084
+  narwhal-primary-address: /dns/validator.sui.mainnet.aftermath.finance/udp/8081
+  narwhal-worker-address: /dns/validator.sui.mainnet.aftermath.finance/udp/8082
+  description: ""
+  image-url: ""
+  project-url: ""
+proof_of_possession: ouXm87PwYUgLxflIDmGt/bR8CQ5IgFQrUTJYKkU6Q40rUgdKQ97BcQxHVIH96wCQ

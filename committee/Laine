@@ -1,0 +1,17 @@
+---
+info:
+  name: Laine
+  account-address: "0x9062fc51d91056246dc31f2b818a4ddb113a044ec22c8dd0674616bbe56f7192"
+  protocol-key: isIXBl0R5CDQSZaui1KmmhApP+z4/UQm8CM4RzoudxaqOSCr1LRwQJf0xXHq66diElWONZJUv8bVEMq0MhC9S5gLH5Ra+ja3biOA9PZuo+WTjytYWOzY5h3vhyShH1VH
+  worker-key: xtXCaNSoV4yTOuFWnJpCyurMhH1tAWefF6WrEFYYk4Q=
+  network-key: WAHe8JvDagFh8j+GV35W2FpA4mYTvTcbw7aAGFBp7dY=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.laine.one/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.laine.one/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.laine.one/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.laine.one/udp/8082
+  description: High-performance validator operator
+  image-url: "https://laine.one/images/laine_simple.svg"
+  project-url: "https://laine.one"
+proof_of_possession: o+jFvibZJUqulfI14tI7gbHqZoW5vLZSTGjyDuI+7uMXAoW5E4r0dxCWdIE0IPFX

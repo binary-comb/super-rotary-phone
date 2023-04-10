@@ -1,0 +1,17 @@
+---
+info:
+  name: Nodeinfra
+  account-address: "0x5d6ee8465b31200131242fa79e84893518f6e3929d995f385ca9eda74db2361d"
+  protocol-key: mdAQCwk24U7GH92YvCMrKLz0NFuUwrpcW4vSO3aSHJ12ytUNYRYd4o9Tm5hupdHJDlBjssdt0ZNNQElQHBINrr0EpHMRmRq6N/+lX8JWm3EhgBfRtTLZHThjbtd8ZOhd
+  worker-key: kHWSqyqVbp17KOgq/0FpKaEgTdA5E5CSmrfNmMMXIZU=
+  network-key: 2q9q7T0jBtIWZg6qnkYRsSIzu1+Hk28uRP5kZdqlv+o=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.nodeinfravalidators.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.nodeinfravalidators.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.nodeinfravalidators.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.nodeinfravalidators.com/udp/8082
+  description: The most reliable blockchain infrastructure services
+  image-url: "https://mirny-public.s3.ap-northeast-2.amazonaws.com/nodeinfra_logo.png"
+  project-url: "https://nodeinfra.com"
+proof_of_possession: o9PoZZ3LO6tRd19A81hfChwqSlIXEpMAIKXbo/270W1vXsU62EAHoNlID5e1KFvE

@@ -1,0 +1,17 @@
+---
+info:
+  name: Dankuzone_w_DAIC
+  account-address: "0x55d2bd7e02c0863914c3af925188c6947e9209b39eb304c630525d69294c3be0"
+  protocol-key: meTHQVEnxe8CXg/T0ZQfyajfd65jYIVcuWV4IKHW2q4rxcczOmd0J2B9hvINKY/uF8JCzUzdGci8qpmfv0uiOkmC2UQcGSIYRajqXPiPotxjaDqujBlPxIas4oY2K981
+  worker-key: rFm6s2X35XAdCh284kT2wxUXvV4U/wUqFQ2NPYecykU=
+  network-key: 84jYSgG83VBanLpUx2PzIRugBx6rAB3jxFTA+krOiM4=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.dzdaic.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.dzdaic.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.dzdaic.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.dzdaic.com/udp/8082
+  description: "The official validator node from danku_r (YouTube, Twitter, Medium) run by DAIC (https://t.me/validator_danku_DAIC)"
+  image-url: "https://raw.githubusercontent.com/DAICers/dankuzone/main/files/images/dankuzone_w_daic_logo.png"
+  project-url: "https://daic.capital/danku_zone"
+proof_of_possession: gv9qW94Lz/VYNZpmpXekSytLB/0RqVEbHAJkSxw8157JnwWNp+Ho/HHVJB6b4dPK

@@ -1,0 +1,17 @@
+---
+info:
+  name: "[NODERS]TEAM x Criterion VC"
+  account-address: "0xee6e1f8e2726e6bc2bf36ab7dd5736afff076704b12271a332f49f8e7d0bf756"
+  protocol-key: r60PWt1RSI/PTwyCSkDmfHvghxhn6eGEMZwhiknQlufrs4I8RlSYO5hU/RVnW8+GAuiwJ+aWbDzR/qMGm5+vEdoYP45PjfWmb8o+wGKhOOSKlO93TwQ23+zyaUAps4gc
+  worker-key: rDNT+7Dbb3LxTpPyzr5BTKlDitFj/nWo1xrTJIEaQqY=
+  network-key: JEWF8rl1YWQUwzPaWQ6WJ7tFxKu5T/GKl868sQbnqVA=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/45.76.150.11/tcp/8080/http
+  p2p-address: /dns/45.76.150.11/udp/8084
+  narwhal-primary-address: /dns/45.76.150.11/udp/8081
+  narwhal-worker-address: /dns/45.76.150.11/udp/8082
+  description: "Tell me what node you set, and I will tell you who you are"
+  image-url: "https://i.ibb.co/SNyw6yG/1885-oooo-plus.png"
+  project-url: "https://noders-stake.com/"
+proof_of_possession: rTYzmmvuTh72+qx7xLOHEsm1QNNMDrGYm9VErp9zUyMkDlo/xB15P59dy8u+cbLs

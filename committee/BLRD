@@ -1,0 +1,17 @@
+---
+info:
+  name: BLRD
+  account-address: "0x1ea86ae398023fb87b522673020b1709640221566de33585acfcf6a865f6f467"
+  protocol-key: jDx3XWq+r8yKXS31Xw0RcEzIdeHJUL74ClxaDlex1XHfeRd6kNf71j75o8o90kfaBKTJXy3gsiu6iIt1v+arBx5nTxMWDv3CwdL/p+Tmbn5QECMFKUjJcNwFQDr2gcmL
+  worker-key: z7FzN4gtAObzCTr493lL4qMZHfhQC2uZ2XDSDIzZNxQ=
+  network-key: Kmnx7SNyD9ho+rtuGBBQp8rm8+mS1WuVq9jFB3Kgu1Y=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/validator-sui-mainnet.blrd.inc/tcp/8080/http
+  p2p-address: /dns/validator-sui-mainnet.blrd.inc/udp/8084
+  narwhal-primary-address: /dns/validator-sui-mainnet.blrd.inc/udp/8081
+  narwhal-worker-address: /dns/validator-sui-mainnet.blrd.inc/udp/8082
+  description: "We are BLRD. We blur boundaries between physical and digital, virtual and real, and centralized and decentralized."
+  image-url: "https://s3.us-east-2.amazonaws.com/avascan-crossnetwork-cms.avascan.com/deb8ea77607572d86a1480f8a9a88d9a_eaaa5fc19b.gif"
+  project-url: "https://blrd.inc"
+proof_of_possession: qsYMTV9bE+ITY6r/7k4MC8tFw8YTPL4TAldFVrlSv2sGagps/aT6z6Uc+BCbVdfB

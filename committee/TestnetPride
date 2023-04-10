@@ -1,0 +1,17 @@
+---
+info:
+  name: TestnetPride
+  account-address: "0xad1ca3844353d0c1b86fea2d848fda0c62439168c29e132ef17f9964a19a551f"
+  protocol-key: tRsvC8cgLpW2/CzthKXkxxDrhsr6Hg2Pd0er0Hu+73mY07hIeRTLA0h0MErxCQkiETE0Rmt51j0JRaP54V+69DR/1usxBWF7S7AGxU+UmGgzdAbOMSeCFHLPeEWlUXv+
+  worker-key: bqlzB8mOgNV89v7QW4BPJnuY/NbN7TK8mSsLwgh+eoQ=
+  network-key: o885ym+bR6LN+x1OYgwh0f2XczdFgwdor60VVneMEDE=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.testnet-pride.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.testnet-pride.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.testnet-pride.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.testnet-pride.com/udp/8082
+  description: Staking provider for different Proof of Stake blockchains with a high uptime and 24/7 support.
+  image-url: "https://gist.githack.com/Hacker-web-Vi/7ca0ef48784c3b5a14177b1525640490/raw/575293786bcb5e4ce8dfaedc7105442842cdbe65/logoTP.svg"
+  project-url: "http://testnet-pride.com/"
+proof_of_possession: svYjy5mXCSfk30CP8vrz6mviBTwpGbshp2xyhjcWb+xAporffSqjDw/76IUf+ehg

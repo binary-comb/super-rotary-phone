@@ -1,0 +1,17 @@
+---
+info:
+  name: Restake
+  account-address: "0xe08d75c562928f58bdbe697e7e35de4802535722337d88305669286e649a104c"
+  protocol-key: qMJiqwZZb1SZgjbOvWhySgWhU289GxYJ0KJdSgLyAQxgQr2btOiZ9iw87VrNuiT+GcFB2rlLz9FV77N4h/ATtH0nS4eWfrfgZHKia4HrXhI/M3ltoHGxilpcf0qcRAK5
+  worker-key: PABWd1e2gIsDYkGuZH8NM/8GzRV/x9ej8SJQQoEIKww=
+  network-key: Jb06toV8N6Fr2qio3ROX/jxOtE59oS2qwU2W6qDgMP4=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/restake-sui-main-00-0.machine.restake.tech/tcp/8080/http
+  p2p-address: /dns/restake-sui-main-00-0.machine.restake.tech/udp/8084
+  narwhal-primary-address: /dns/restake-sui-main-00-0.machine.restake.tech/udp/8081
+  narwhal-worker-address: /dns/restake-sui-main-00-0.machine.restake.tech/udp/8082
+  description: "Restake offers a transparent non-custodial staking experience, trustable by design."
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/565272eba46c6b3e48d5eb1723e81505_360_360.jpg"
+  project-url: "https://restake.net"
+proof_of_possession: qJXtSvZV2DCw4KBYfH4/S2esN4Klxohve/VgCu71WItXS+AMyc2IYBsfL1v9OFsR

@@ -1,0 +1,17 @@
+---
+info:
+  name: KingSuper
+  account-address: "0x970f9006836b3eead979bbb97d2ae8f8f331a0834209f2bc878ed142fa9ad1ee"
+  protocol-key: iv3O9n3JLn9M85gzBIo6NZJvuCG/DSIZeSq2KJ63UaARIbbVL5sNUfvpHmmfvR4dEMsV7ka/XmlpL5YDpurHjlTGCPnJjTzu8zIOqQgXn5HqfBkh3yWPsyX+lvUvMj4P
+  worker-key: EcQe2ZqZpC0X4J/Df+lArCvYWcb/37tfMB6XasH8ETU=
+  network-key: jS0bTAGQ0wS4z9sKGHP8/2NQiWIbwLZFyZ0MuGw3qos=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.kingsuper.services/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.kingsuper.services/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.kingsuper.services/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.kingsuper.services/udp/8082
+  description: "Others Trust, We Validate ! Your Stake is Important to Us. Secure Networks while You Earn Rewards."
+  image-url: "https://multimedias.nyc3.digitaloceanspaces.com/validator-website/logo/KingSuper.jpeg"
+  project-url: "https://king.super.site"
+proof_of_possession: oDYiG0O7UK1p+6ikSZvOO+BnyO3Xqi6IlgyW0a4B2o3OBViu5ZR1BFd+6JgMmnZw

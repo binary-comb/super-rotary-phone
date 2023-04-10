@@ -1,0 +1,17 @@
+---
+info:
+  name: HashQuark
+  account-address: "0x24f61ae027301ee5ea68559b6d5f96de1c4879e1c85586044e08132d6af6ffd3"
+  protocol-key: tz+5woSC/U8fBOapPecQovjMsOmacuAqdtkYfoRtykQzbpzEUSjAmxmnpJaHoVTaDBbRUMBNZ6FxtyKmD9LsvU/AsDyzu8GpyLPvr3HND/jJlf3dMUs8rom41cd+sLvD
+  worker-key: KRqanOEcaELYJ75iWsk3iK/rxXX6m5FPObcB2SkB/5k=
+  network-key: ki+9aA2rRaHCuORsiJCQrgO4nvQghzKOoLWTngMsfx8=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/152.32.190.103/tcp/8080/http
+  p2p-address: /dns/152.32.190.103/udp/8084
+  narwhal-primary-address: /dns/152.32.190.103/udp/8081
+  narwhal-worker-address: /dns/152.32.190.103/udp/8082
+  description: Node Validation Made Easier.
+  image-url: "https://raw.githubusercontent.com/HashQuark-Research1/hashquark_assets/main/hashquark_logo.jpeg"
+  project-url: "https://www.hashquark.io/"
+proof_of_possession: tbB7qb8axcA2iuq7O2JhkbvF6zXHa2v2/XaqzoxgDCZpl5uJh/eAvjhtiU5DgOx7

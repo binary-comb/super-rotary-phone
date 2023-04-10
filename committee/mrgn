@@ -1,0 +1,17 @@
+---
+info:
+  name: mrgn
+  account-address: "0xe719405821d7bd32ded86a2aed34f06f3dacd09c91241ec3f34b219ebeddc6f0"
+  protocol-key: pCOWxedQF3K0WO+9c7o9nDVrUVE63UQ6gm6KVe0LnvQFjJf3l2fjHTXw/saQbFoUCqHQ9OIjpn9TiRECu+92R5mVq+6tVKMLqYlBDSEyZp6joBqtW10u9PkfnlRr397M
+  worker-key: MA3zKcbsUimcvjB0NnPw7YMjD9/C0X4PY8gWuKbJ4JM=
+  network-key: 4wvMt12PwdeJDxNoqXc9/w5I4LaLDbSSxfIZKZDuquk=
+  gas-price: 500
+  commission-rate: 1000
+  network-address: /dns/mainnet.fengsui.wtf/tcp/8080/http
+  p2p-address: /dns/mainnet.fengsui.wtf/udp/8084
+  narwhal-primary-address: /dns/mainnet.fengsui.wtf/udp/8081
+  narwhal-worker-address: /dns/mainnet.fengsui.wtf/udp/8082
+  description: "mrgn research is a proprietary trading firm solving DeFi's liquidity problems"
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/d62be77b319b7f539d00077eac30ed05_360_360.jpg"
+  project-url: "https://www.mrgn.ch"
+proof_of_possession: oHiwu+K4Swoq3szpQbywd+OobPoiwb1r+QbiD7BRJz3RZxNpI2E09xr2kALAJbz9

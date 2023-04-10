@@ -1,0 +1,17 @@
+---
+info:
+  name: stakingcabin
+  account-address: "0x68cf08c4ef8b0462d8c3879f4e26cc371fbddd844650d0c41a9c3badc8104609"
+  protocol-key: hSwLQqNWTjfb5UQJSQ3RCnKMD+y0Vxhb5pmL3UjsVXKN2rj9X5B7kcPyGOjRcy0ZAyN1BinG+AHszj+z7J5IUhYMo0JwHWn5mw5ar79BKo1MT+evU2o7zyJ+nAyU/8VH
+  worker-key: X+RZ1/7r9kUu0Z7UQ7zHCMjfRSH9V/jZU+OSAF4rs50=
+  network-key: v31DYabdK6m5UUxCYb3rG/JmfynPFdOzZkHrDQY4FTM=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/mnv.sui.stakingcabin.com/tcp/8080/http
+  p2p-address: /dns/mnv.sui.stakingcabin.com/udp/8084
+  narwhal-primary-address: /dns/mnv.sui.stakingcabin.com/udp/8081
+  narwhal-worker-address: /dns/mnv.sui.stakingcabin.com/udp/8082
+  description: "We offer enterprise-level, highly secure infrastructure services for public blockchain protocols."
+  image-url: "https://stakingcabin.com/img/icons/logo512.png"
+  project-url: "https://stakingcabin.com"
+proof_of_possession: mMtR8sX/CjMoI1AQW1FqxDgMHpqDF2HjXn4MSlZ7xgafeAW1JtU2wfa2r/6xGYNq

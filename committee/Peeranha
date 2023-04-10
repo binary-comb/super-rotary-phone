@@ -1,0 +1,17 @@
+---
+info:
+  name: Peeranha
+  account-address: "0xb788ef0e41bc4105cd4c90ff269d07ccf0c8c62552b981c38966f338f69e0e09"
+  protocol-key: smfCI0+2d3pqb6FeMdRec3iM4Q3d7pNMk+eeYtbBoVY9XVlep37clMoJwAcv9ylyAPEkWmXPivX3XcZXZD6nB41QTPkp7lObXI1ToQoSiZAM1tBmJ2GhhEsljIYGE139
+  worker-key: qX35ehlplmEaM7lj6FQQmW1FvZn7uML+4r9LsC8lW7g=
+  network-key: tmwim6LD1XJqrJuVG+yW0vUu0fJkU63w1Ln73HctDjs=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-validator.peeranha.io/tcp/8080/http
+  p2p-address: /dns/sui-validator.peeranha.io/udp/8084
+  narwhal-primary-address: /dns/sui-validator.peeranha.io/udp/8081
+  narwhal-worker-address: /dns/sui-validator.peeranha.io/udp/8082
+  description: Knowledge-sharing protocol for Web3
+  image-url: "https://images.peeranha.io/peeranha-logo.svg"
+  project-url: "https://peeranha.io"
+proof_of_possession: me+WC5krLyKmlGZ0JxMuYHyxsLt1YTh5e+GxouEgZLKWe0/PmobT3EPF2xkYejLA

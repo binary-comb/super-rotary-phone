@@ -1,0 +1,17 @@
+---
+info:
+  name: SpartanLabs
+  account-address: "0xa987c410fa047b973d479555894c85208c4450ef65fd1d8d5911b46fbca83365"
+  protocol-key: lqdnN8CFfnElfLHLRacugdkEL4R+hBQbyRSn4TftXWqZH4+Uv30VQLlzBX69WGvkDpGs8xM9MegSZs0zCDYM+uyaaalmhFFOBJGcCjngu3LVex/T3mv5uY2TuE9rZm1D
+  worker-key: 30agofUaTmLeXFMn/tSkEC7vN+S1NWkkpzkD05QPSaI=
+  network-key: GSnHeBVWnfNbDCcKWaRYLuSouYc2xUohygjsFXDuS1Y=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.fish/tcp/8080/http
+  p2p-address: /dns/sui.fish/udp/8084
+  narwhal-primary-address: /dns/sui.fish/udp/8081
+  narwhal-worker-address: /dns/sui.fish/udp/8082
+  description: A Web3 Venture Studio. We transform insightful ideas into daring ventures with the best builders in Web3.
+  image-url: "https://raw.githubusercontent.com/SpartanLabsXyz/zk-sbt/1f240dad5ee29db4f29e2069eb79762e11f47955/client/public/spartanlabs-logomark_black.svg"
+  project-url: "https://spartanlabs.studio/"
+proof_of_possession: rcVyCbKAjdYyXEM30SNc+C7ZB0GVo20H2EO1NVBtxOImpJyKGcabU2NRiQVT0gQA

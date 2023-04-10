@@ -1,0 +1,17 @@
+---
+info:
+  name: Cogent Crypto
+  account-address: "0x43b8f743162704af85214b0d0159fbef11aae0e996a8e9eac7fafda7fc5bd5f2"
+  protocol-key: jA3PY2RS3XBhlscpWSs+kNwRn5j3kfhwftQIUB2bj2iiXnIe0bCUKY5+HTIYrSI+E02mgN0J1nR7kTi3yZAKLVfCV9ZJhpHh7KYEVF2FNlAF22T8CR+0KAUyL/B5dKXM
+  worker-key: xGM3VBC4RAYLyW2z0et5xXmPaZxjbAWzH1etYT0SHgY=
+  network-key: JGAOGRfwo3cTMjwVSfWcgut+AJhHIL4RwFNaiU2+AC8=
+  gas-price: 1
+  commission-rate: 0
+  network-address: /dns/suinode.cogentcrypto.io/tcp/8080/http
+  p2p-address: /dns/suinode.cogentcrypto.io/udp/8084
+  narwhal-primary-address: /dns/suinode.cogentcrypto.io/udp/8081
+  narwhal-worker-address: /dns/suinode.cogentcrypto.io/udp/8082
+  description: "Cogent Crypto is a cutting-edge blockchain validator designed to provide a highly efficient, secure, and transparent validation process for various blockchain networks."
+  image-url: "https://cogentcrypto.io/logo-square.png"
+  project-url: "https://cogentcrypto.io"
+proof_of_possession: gVV9/6Uti1FwwAvh81esOfhIFKPIoX72YyrgWmS8mJoMKs5mbpQgKeWwhZNuZeqY

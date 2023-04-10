@@ -1,0 +1,17 @@
+---
+info:
+  name: BlockVision
+  account-address: "0xd939e3fe7ea4d503f84767dca0c58b7ec1c71f085638a4c0611aa64aa71b5fcf"
+  protocol-key: q/IHtcHrGFuaV/R+e8Yzqs1ySEL/PCwOILTdJCqy9zkPnLwNjJxNUCR9AHTkfC2rDV1hReAbciKxmp0foKBO73/KROUdPIS8bhsWK43KCdN5YEtWsSFKRgO86BHFNbLJ
+  worker-key: OTrKbvUwWhWIaDHE9bHIyX7BpKipN+rtinSTfJsKGfQ=
+  network-key: GQpmPxDF1nosVgqw8Nej2Dj/k2Ss5VV1Y3gdQ/FixyM=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-validator.blockvision.org/tcp/8080/http
+  p2p-address: /dns/sui-validator.blockvision.org/udp/8084
+  narwhal-primary-address: /dns/sui-validator.blockvision.org/udp/8081
+  narwhal-worker-address: /dns/sui-validator.blockvision.org/udp/8082
+  description: "Blockvision is a leading provider of data infrastructure, node operator, and enterprise solutions for blockchain and Web 3.0 space."
+  image-url: "https://blockvision.org/logo.svg"
+  project-url: "https://blockvision.org"
+proof_of_possession: ryN/K2ovzH5o5S48BlHN7gh04NIhmXByp//WU4l59gVooJsP3bZxmyZeHY9dgNgq

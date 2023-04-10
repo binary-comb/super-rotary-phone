@@ -1,0 +1,17 @@
+---
+info:
+  name: Brightlystake
+  account-address: "0x59031a8ba47e04dade3eea9dba0c7ccf8ed3ab9d51d7561add640f687add04ed"
+  protocol-key: tEemEK46P3fCQf+WsTrm2LOlPkmJ3voCs1gB6ytQLNK7H/LGTxS3ww0U2G9NWAqXB6Uyoay7sUv5arJIDnE1dNO9CsagKKDQmxUtE9Ku7s16t+Om096s09tRVj7lH4Rw
+  worker-key: MMMgtiwn6Yn9ioImBcM6psMB0gy3LQ138LMlmon9AYI=
+  network-key: u2/PU86Tb9CCQP7pH6gSlVKpTk44LhrzhZKwT3KhKKU=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.brightlystake.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.brightlystake.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.brightlystake.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.brightlystake.com/udp/8082
+  description: "Brightlystake a Non-custodial pos staking provider.Reach out to us at https://linktr.ee/brightlystake"
+  image-url: "https://raw.githubusercontent.com/Brightlystake/brightlystake/main/Brightlystake-logo.svg"
+  project-url: "https://brightlystake.com"
+proof_of_possession: man39Js+rao9rUZHeAF1Ui51tiu2aKyQ0ewrt0Exeur+07hHpsS7IM3T22pkvLiD

@@ -1,0 +1,17 @@
+---
+info:
+  name: n1stake
+  account-address: "0x1290ab8bca1c136d2b86967674a43a0f5cb30b352f90233cc37ebf7452b96787"
+  protocol-key: jg8NQ2cD6F1FWJVLtej2HufRkK16vqVNVdaRMOU9eXww5R8K1t+RcZ4/3kT5N9xFC3KdrH19vDfJHZF8++MRe/e/EGrb2XpdKioo6TmxN1KdxKP9Xc7IKHfllMWUl9uk
+  worker-key: O/aJiM7/b9gNxNQOk2wSZmVFsj8WGkCSFbjHHm1XHCw=
+  network-key: mV0sc6IEAc/gd5oBjP4TjorGGDiqmWPTvee1TqKNJYA=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.n1stake.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.n1stake.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.n1stake.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.n1stake.com/udp/8082
+  description: "Professional validator on PoS networks. Reliability, high performance 24/7."
+  image-url: "https://vincagame.com/n1stake-logo.png"
+  project-url: "https://n1stake.com"
+proof_of_possession: gaQQWchW0fVc/B/pJSYnC85htDH/KgGy7DqJxdgcYmrnaeuHlI0Lpp69/zkEW8xq

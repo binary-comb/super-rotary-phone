@@ -1,0 +1,17 @@
+---
+info:
+  name: Blockscope.net
+  account-address: "0x9782704c86b40c55e709fb866865c507c732fa0af5b87246feabfef4423f4f90"
+  protocol-key: kF2fS8XrwuTJWESFAUTL3bJKSr0HRRk5FWPzVzHDKxAZh0ObH2ph1T17sACVveiFFLSCuLXQ1hiOpK5DvDFAr1H4twMrnmY4RAN00YtQ5VCPxvuykk5tge8iUW+IjIjO
+  worker-key: KjWMQg9/r4Ou/g+rRZf+OSMZ8ZwsbsuWr8XharjYExE=
+  network-key: cpOUArhqhfOZhclq8wRWdHsuHDR18fX5BK+HZQvgU6o=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.blockscope.net/tcp/8080/http
+  p2p-address: /dns/sui.blockscope.net/udp/8084
+  narwhal-primary-address: /dns/sui.blockscope.net/udp/8081
+  narwhal-worker-address: /dns/sui.blockscope.net/udp/8082
+  description: "Experienced team of IT engineers building dApps and infrastructures for blockchain projects like Near, Solana and Sui"
+  image-url: "https://www.blockscope.net/blockscope_thumbnail_360_360.png"
+  project-url: "https://blockscope.net"
+proof_of_possession: lMe5LFyoKzP2Izdbg59lVV6wLfkpadL82H1qZw+NeQ7PS+ZB2raoSCFWgKocZ7sL

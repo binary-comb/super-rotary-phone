@@ -1,0 +1,17 @@
+---
+info:
+  name: Forbole
+  account-address: "0x1e1985024aafe50a8e4eafc5a89eb7ecd58ba08c39f37688bee00bd55c8b2059"
+  protocol-key: jgLc85ODurJOxgxMNmFecnkCByws3Oc7/smojh8NmMGCo4dVmVzL4v7oSipWfC5PBUC6sy/w4ro+c5MAwpk0Jj8o3gB4WkShrvHJTvQtLgT371ZK5Uy/3CtirAA58df2
+  worker-key: 3B8ML9nIDiEHPZy/MhU8x/UHHl9r8/l8oVhBQfFkne4=
+  network-key: 1LzOt9k0P0cSpFPf4ZZxjZBfoL4RMTmgFe5fmKP3ZO4=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.forbole.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.forbole.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.forbole.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.forbole.com/udp/8082
+  description: Empowering the future of Web3 with Reliable infrastructure
+  image-url: "https://avatars.githubusercontent.com/u/32561566?s=200&v=4"
+  project-url: "https://forbole.com"
+proof_of_possession: hdSGG2Q3a8IHSSNVQZN9H5Tv/zkS6HpooZmtA+96g1E86g+A5Da2RRZHQJz/HMTc

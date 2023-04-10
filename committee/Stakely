@@ -1,0 +1,17 @@
+---
+info:
+  name: Stakely
+  account-address: "0x9c7376a3f903cbe1f467a4edbefb54bb5a2f10886496c591ca955c22f0ae10c9"
+  protocol-key: la/0YtYAaz3u1kwhqUOTxeG5Zgvn2T1sneIs8aokiDoprp/ng0A/BodaHfaUMS36AFfvcs0n0e8iiakFmHre2GgUh/aTYthRV+Wp4oO2PQEBl0HssIEBZzVhYR9L/06m
+  worker-key: NDYMW4uRbIHVHEhEcGf4NGS+YoMdKxv5th03mq0Oavc=
+  network-key: qBjLbxHDLI6UdPq5ao1uDmtWQ9qGt8tQPtCgIUhrWJA=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.stakely.io/tcp/8080/http
+  p2p-address: /dns/sui.stakely.io/udp/8084
+  narwhal-primary-address: /dns/sui.stakely.io/udp/8081
+  narwhal-worker-address: /dns/sui.stakely.io/udp/8082
+  description: "Professional validator highly experienced in PoS | Non-Custodial Staking | Learn with our staking guides, video tutorials and FAQs"
+  image-url: "https://img.stakely.io/logos/stakely-io-small-logo.png"
+  project-url: "https://stakely.io/"
+proof_of_possession: oGD8nBPmkpvcxU0ixJIuekP9PlAlFKcxUNgXu3RgrHR0nMUITGo5V4+nNll1mg/S

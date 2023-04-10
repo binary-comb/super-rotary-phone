@@ -1,0 +1,17 @@
+---
+info:
+  name: KiligLab
+  account-address: "0xf7abab51fdf9b4626ce706a5dfbb3da13a715700149bc816dfbee2ae73d61be5"
+  protocol-key: qeed62aDyjcdcVgeM5XgRaa/pexC+AtrkucfeAet5T4zEzqBTIM9naTCAbKUESX8F4Gwg+VDRdwKjU4oEZY3heo0g0Ggqz6h30/BoRlhkMO8aErpEGiDDvhGQWvoAmOQ
+  worker-key: 9K7Yx7Z20yIWWqXiZAvXBvhGCyAemaAMzVskQ+KhcDw=
+  network-key: gGtmhCyxL1BzsMSNy/mpIU5YWDqOvzYhGgF2QpKp5bM=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/mainnet.sui.kiliglab.io/tcp/8080/http
+  p2p-address: /dns/mainnet.sui.kiliglab.io/udp/8084
+  narwhal-primary-address: /dns/mainnet.sui.kiliglab.io/udp/8081
+  narwhal-worker-address: /dns/mainnet.sui.kiliglab.io/udp/8082
+  description: We deliver the true value of blockchain technology and WEB3
+  image-url: "https://cdn.kiliglab.io/logo.png"
+  project-url: "https://www.kiliglab.io"
+proof_of_possession: qc5GPADRdVHK5Wkyk8PZ7ihFPyHHjYKiQiH80VkbuZI7HuBf8zBx0Zhl2VEdsZnc

@@ -1,0 +1,17 @@
+---
+info:
+  name: Ahoy Validator
+  account-address: "0x51ff201c85824151a1c4f80637f39032788b0f00de88e97a6f7deb56d2e38f49"
+  protocol-key: tKPHPqpZNR49Qe5DrZG5yEI8bruilJ2QrUky1wGKT3TrAy7J7GIJMWkPvjEMAMLhEU407GDyKivgRaNCvVxBsUgeaaZwfaAl6WO3nUi24eXKqaYQqe0ikCZz4DZqUVqX
+  worker-key: cK/5d8GMJ+DZlPawG4psFVCJHpFSCqqzxN2QpvA/r8A=
+  network-key: qku+sysdwOKHv/MEPQRJzYybBdScEU96pIfvjzZMu/g=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/main.ahoyvalidator.xyz/tcp/8080/http
+  p2p-address: /dns/main.ahoyvalidator.xyz/udp/8084
+  narwhal-primary-address: /dns/main.ahoyvalidator.xyz/udp/8081
+  narwhal-worker-address: /dns/main.ahoyvalidator.xyz/udp/8082
+  description: Ahoy offer professional validation services using the best hardware on the Seven Suis
+  image-url: "https://pbs.twimg.com/profile_images/1599989622544949248/r6mp5dTW_400x400.jpg"
+  project-url: "https://ahoyvalidator.com"
+proof_of_possession: iV91Ok/O+vUED7SHjrDdbOr+niXQuaIhn9nPnoNZjJF3r/9NAvYS2GmRA4D1sAI0

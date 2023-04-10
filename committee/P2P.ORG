@@ -1,0 +1,17 @@
+---
+info:
+  name: P2P.ORG
+  account-address: "0xa92837bac51949cd6bac41dcec57d2a769f3c2cd2e8c0512f3eea0a2a2102b94"
+  protocol-key: sFHgHeulVw4Me69nVLIO998Z+LC5FgGgqOHWapaILsqW9oyNq8zpTcbGJNMhjrDTE8R8u/CBdEpt6VyTtymvF5KTLr2UFITvjaJDcEcta8JciPr8VTJptmhbi1xIxBx3
+  worker-key: zKdYUf1y/xuqSBG54mxIrfBZILVmMdMymoRXIu7HXOI=
+  network-key: +ZRG338J1IA0gaDx7xTArv5qAXZ5iBCqigY1za+X/g4=
+  gas-price: 1
+  commission-rate: 0
+  network-address: /dns/val1.premainnet.sui.p2p.org/tcp/8080/http
+  p2p-address: /dns/val1.premainnet.sui.p2p.org/udp/8084
+  narwhal-primary-address: /dns/val1.premainnet.sui.p2p.org/udp/8081
+  narwhal-worker-address: /dns/val1.premainnet.sui.p2p.org/udp/8082
+  description: P2P team consists of 150+ professionals across 10+ countries providing reliable infrastructure and staking services in 40+ networks.
+  image-url: "https://raw.githubusercontent.com/p2p-org/sui-public/main/settings/access/p2p_logo_white.svg"
+  project-url: "https://p2p.org/"
+proof_of_possession: lHT4ijCG5/3fOYJQ/UKVsN5kbJSe1cQ1pmdOPGdUzKAdSF8ZQcwnNR2IvNnZb0ot

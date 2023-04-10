@@ -1,0 +1,17 @@
+---
+info:
+  name: H2O Nodes
+  account-address: "0x4ce8d9d329879f3b361c9515f48acc0f91b283a7305f6c9c789b0c8d1ebf43f2"
+  protocol-key: gYiKa0xo+PSd4JbZjy0/dsMPVLjgYVQ17VqQhRc69+TcMy87XLi9sU5G2m27MEd9Dn0bTpANSvC5Q1XVJMtWDrROoreMX+m56zkGRVyeRMrvb9CV7H0vu8EVmFDXGb7C
+  worker-key: k/nGPbdVAOBWWd31HdWDWeaKEPX6T0Ux7wNZpvZktNI=
+  network-key: S2v0h4cFjA8+fzDk9UAP/QDX5kp2DVtJkENwOSIx3wI=
+  gas-price: 1000
+  commission-rate: 1000
+  network-address: /dns/sui-testnet.h2o-nodes.com/tcp/8080/http
+  p2p-address: /dns/sui-testnet.h2o-nodes.com/udp/8084
+  narwhal-primary-address: /dns/sui-testnet.h2o-nodes.com/udp/8081
+  narwhal-worker-address: /dns/sui-testnet.h2o-nodes.com/udp/8082
+  description: ""
+  image-url: ""
+  project-url: ""
+proof_of_possession: kfS4YNH0d6EpZEN/t99NP86mM6QFqfx9zJ+TcpMCQYbOcSElJOKBs7+OxQgwh0o/

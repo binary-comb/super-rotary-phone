@@ -1,0 +1,17 @@
+---
+info:
+  name: Overclock
+  account-address: "0x02189430bd03a05813f0b5998dd6e400d21e831d31f609bb0142b869e0fa020b"
+  protocol-key: pMiZwbn497iRuxKahVZq1VZf2KMpculWtA2LmfgCvTJBw+aDuneOe7iXeOfhqeSLEvKSzLwHUX74Gmr4Aw9IltfYsRYl+S/kx7+F4FDf4ls/LH0ZEZj5VevGK8J1xVBi
+  worker-key: 3F6wg3FpDmNSMqIbyBCuOj8FjbTi0ieIjolGmme9a54=
+  network-key: D6/Zpq0WLp/ILjxWtfcfFRBFTooT4m6G+V+nT/NgHYc=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.overclock.run/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.overclock.run/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.overclock.run/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.overclock.run/udp/8082
+  description: "High uptime, high performance bare metal validator"
+  image-url: "https://avatars.githubusercontent.com/u/116830051?s=400&u=ee4d79d2bde09a2aa216980a198b5dabccc05545&v=4"
+  project-url: "https://www.overclock.one"
+proof_of_possession: oezEbKU101CZdK6oAi0dbaKJuuKyQVWmsYhIigK6Gwe/F9TCwthgD03SVrENoUq2

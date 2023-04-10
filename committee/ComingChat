@@ -1,0 +1,17 @@
+---
+info:
+  name: ComingChat
+  account-address: "0x11ec7353e9e08ed4ca13b935ad930a2f937112736aec5eedd08c95cc5cd4c264"
+  protocol-key: gHcc2rJLuqE2EX+S1nvErlvh2CtcMkoTVJieRgH/k8gNEDjQaZ87OkdgmaR1RQjqBKwk5wCiKcMrfjeAwcSnqI4EVKTuWw12Rj6qIhjCqulY+E3y0zCvsgd81MgqTzCs
+  worker-key: 5zpGGKL8rAT+rvQaKpjiacy8qe9mYGg4sj+XEnBZw4c=
+  network-key: dJZOTBVNNWT1ga7uHIyb7sqeKyUtD5MeqYLxSFcUXJk=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet-validator.coming.chat/tcp/8080/http
+  p2p-address: /dns/sui-mainnet-validator.coming.chat/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet-validator.coming.chat/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet-validator.coming.chat/udp/8082
+  description: "ComingChat is a SocialFi-based Web3 portal application with #DeFi and #GameFi function"
+  image-url: "https://aptoscid.coming.chat/favicon.png"
+  project-url: "https://coming.chat/"
+proof_of_possession: gypDu173SPf2p8lb92v8h2MICgK6DxNFMrTxoAd4IyiaHd998g7INgqt1bBvwm3p

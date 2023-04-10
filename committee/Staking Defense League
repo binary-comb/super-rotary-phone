@@ -1,0 +1,17 @@
+---
+info:
+  name: Staking Defense League
+  account-address: "0x27002933548d3c8a5d8e2fbddc541e1e66aeeaff1b60465c2df52974f96ad3d0"
+  protocol-key: j792QbHI4yivqIeaZ8FimPAhtC9k+Z9tJeyICNQvFMjdNlkn1DgY9d2LrF6bAxFFFlXBE3LpMHh0vtn6DMlqfXVerkgNt0b2SuwmDt3f60eTCnWtIduYGEbyQSXTMKeH
+  worker-key: pSCq5cHUKONSjWMT2KYkHt1Ve94rrYW0wT2mYqGJk28=
+  network-key: ocVkZSFQe0/rEHkXuHcBV5c0qJ9DJy+oQAf+q5tSS/U=
+  gas-price: 1000
+  commission-rate: 1000
+  network-address: /dns/sui-mainnet.stakingdefenseleague.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.stakingdefenseleague.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.stakingdefenseleague.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.stakingdefenseleague.com/udp/8082
+  description: The Staking Defense League is a collective focused on increasing decentralization in proof of stake.
+  image-url: "https://stakingdefense.org/content/images/2023/02/sdl.png"
+  project-url: "https://stakingdefense.org/"
+proof_of_possession: mZFPq69CFyzW2d7qPe1B9UUfs/PGk7baGqmqAa+eqpaoHJS58YXY/jd+MgvPfUn8

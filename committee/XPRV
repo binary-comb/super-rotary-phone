@@ -1,0 +1,17 @@
+---
+info:
+  name: XPRV
+  account-address: "0x25afdbeaa4d530119cb464715cead11e0a1ef86256f3020128fbd7013954a99d"
+  protocol-key: qLA/rFy9/gKpz61gO/6mCKzMQiH1lY8xViV+mi5x+IfuWAQjt6htxauTw0q2+OynEWV7xhzcXCuSujTGmUuUYCY0q9V4QyAYZ1Qt2Us/fofJr2fJRq9Y6lDs3ImiSKDv
+  worker-key: 7txxnFMGQFjK7w5N1j029Cp0COCPkkCFCHZS5Eri8/o=
+  network-key: nw7IYP6oC3+/AGPPiX7YJrFFmy0dazrTIuwBCC82acU=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.xprv.io/tcp/8080/http
+  p2p-address: /dns/sui.xprv.io/udp/8084
+  narwhal-primary-address: /dns/sui.xprv.io/udp/8081
+  narwhal-worker-address: /dns/sui.xprv.io/udp/8082
+  description: "XPRV helps cryptocurrency investors earn returns through our high-uptime, secure staking platform."
+  image-url: "https://avatars.githubusercontent.com/u/76687238?s=96&v=4"
+  project-url: "https://xprv.io"
+proof_of_possession: qVMBiysgSbmk/LI6NepKtQzTHJbVF59N8T1LU7BwkARZpn8DWB8V0S2KwGQlH0kX

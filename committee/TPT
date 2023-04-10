@@ -1,0 +1,17 @@
+---
+info:
+  name: TPT
+  account-address: "0x16c48b033a860c39905842eb52178d612c323e4418d5a90b29dba4ebc5895b00"
+  protocol-key: t1MHkEVHou6Teicap7xBVvJLgR0Nr7SyIzvqSnn2I6DOA6TNjsrDINUvrrOWbnYaGEzinoNLIkhzDuQx8NLLy8/yHMbbq2kxwxD6QC66HMKsWysJMmRiMNbvTYE+o4OE
+  worker-key: yV6sf8ThJJj8BvQlgAl6qv/j+Bje1F5HuRu+q++5K9o=
+  network-key: xpFKVax/rh9ZRGhoMpw9zLy0RyT6sHpta8ldEyplZeU=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.thepassivetrust.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.thepassivetrust.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.thepassivetrust.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.thepassivetrust.com/udp/8082
+  description: TPT is an independent validator operation supporting projects that resonate with our values. We are a council member of @StakingDefense
+  image-url: "https://gist.github.com/0xzoz/ebff884c6d755475974cfc8b0fe3972c"
+  project-url: "https://web3socialcapital.xyz"
+proof_of_possession: qQ0XJEQDZCq1fJGe1CE6RNgtRTWEeQ0CaNPc+57Ge7uUj8Nk41LS9FZuakS7WVZH

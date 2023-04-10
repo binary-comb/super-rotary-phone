@@ -1,0 +1,17 @@
+---
+info:
+  name: Galaxy Digital
+  account-address: "0x60ce054d9dc5771fcbeb9a52a1881a97d3092efc8eb29befc3e60281dbe80ca0"
+  protocol-key: sk/4mJIEdCTswTaBqwk1iT24DYZkiFt1JqSgua9Yx/9ljAOzULZL5KpF9zoDjVT6DI1uHlaS9R1hXGvfGgYVhepXIMpgGVpEcDyV6QPiZuZXN51wx1WBWdaOcgYJ3/MM
+  worker-key: TZUDYEhX51o3mJQeltj3KrUb3dYdNlTxRh/NwEgEWrM=
+  network-key: xTaWrU/ALsaRdRe0zu4O1IYDrplzR/wDAAFH7Kkcgi4=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.bci.glxy.com/tcp/8080/http
+  p2p-address: /dns/sui.bci.glxy.com/udp/8084
+  narwhal-primary-address: /dns/sui.bci.glxy.com/udp/8081
+  narwhal-worker-address: /dns/sui.bci.glxy.com/udp/8082
+  description: "Galaxy is a digital asset and blockchain leader helping institutions, startups, and qualified individuals shape a changing economy. We provide platform solutions custom-made for a digitally native ecosystem."
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/09f6187142c890cf9fb7b6bc0811e505_360_360.jpg"
+  project-url: "https://www.galaxy.com"
+proof_of_possession: iQKLmJUweOUwQQ6NpKtax+uYyrYgiD1M4wabePsvxJX4mHhoE+Bf10pADXLsMjhe

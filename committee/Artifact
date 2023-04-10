@@ -1,0 +1,17 @@
+---
+info:
+  name: Artifact
+  account-address: "0xc77c9ba2f86fe51cefb7aa340c6956f5c0818f999004389ab95330ba839dfb0c"
+  protocol-key: uIbO5mPWaBAgWGjP2fRF948F/TSD/iI0q/T/14PAdfo3DNIKJS46Y+1SCuVjNZjOAB3DHFbYYlUfbHgjRrJvcx7USy8rCp/BH5QGBxZLcH3/83GtlO+Z8hk+ONmpdBGb
+  worker-key: CEceYgg+EftduNDNNwq2QGgUSW1KpTWCk15mozkPO7s=
+  network-key: Hl0oKVI5J9PzgOvkzwnADNko/joohaIeCmvYCqxxBtg=
+  gas-price: 1
+  commission-rate: 200
+  network-address: /dns/sui.artifact-staking.io/tcp/8080/http
+  p2p-address: /dns/sui.artifact-staking.io/udp/8084
+  narwhal-primary-address: /dns/sui.artifact-staking.io/udp/8081
+  narwhal-worker-address: /dns/sui.artifact-staking.io/udp/8082
+  description: Providers of next-level blockchain infrastructure and staking services
+  image-url: "https://artifact-staking.io/wp-content/uploads/2023/03/Artifact.png"
+  project-url: "https://artifact-staking.io"
+proof_of_possession: qqGpymmQkL230t0G+tHxA/0o+wtYG2S4Kjjbx1mNCfP/nL+Unwh6XFGL208TQ/vM

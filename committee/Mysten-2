@@ -1,0 +1,17 @@
+---
+info:
+  name: Mysten-2
+  account-address: "0xcb7efe4253a0fe58df608d8a2d3c0eea94b4b40a8738c8daae4eb77830c16cd7"
+  protocol-key: pnZUgUY9085ZjxV6jm3D5V7AY+KV20yqZBz93NGBg1EfcNZLNsluP2A4WmxbyBTdC1ZswmLlz8SMwkrsG7UFnb2m/Sf6m3EKCo0jnYaS0tyiyqtKAgy5kiBY2Ar7rgMr
+  worker-key: 46avDKupYzgtQ5x13ggXC4+ZoBSuFeyfPLUtvdIo45E=
+  network-key: nkwlVm0aJfv61WiD16BBd6bji+9Nc3j3XWW5bVD4KW8=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/mysten-2.mainnet.sui.io/tcp/8080/http
+  p2p-address: /dns/mysten-2.mainnet.sui.io/udp/8084
+  narwhal-primary-address: /dns/mysten-2.mainnet.sui.io/udp/8081
+  narwhal-worker-address: /dns/mysten-2.mainnet.sui.io/udp/8082
+  description: Creators of SUI
+  image-url: "https://sui-examples.s3.us-east-1.amazonaws.com/logo-1.svg"
+  project-url: "https://mystenlabs.com/"
+proof_of_possession: ll8h8eTrMQjwXcWp0egH8SLlTw+fYIKzUTEKjQG/EaGLAXl6j3nr54nxHgzgvD75

@@ -1,0 +1,17 @@
+---
+info:
+  name: Juicy Stake
+  account-address: "0xb7847468db546ba85acb9dcdc0c5190b3ca6427d713ff52a4f8183c81f8a39e1"
+  protocol-key: sM4xNy5mSqck47Uvq5j02Dcd4NbMpJOHMQmzJpQ53/rLCxzhoOHBVhW+bfpWaPyjD4bCxgx1DMh2Mc566BJqkOu4LiOGE3Z1k7yXEtvs/jqao1NC/s+hdhhvYkTxpRCM
+  worker-key: UqyOmQreH9hIRu/fkFLmHQ53IhrPxTGX1Fz05nScPTk=
+  network-key: v7e/jRVdJxiuf2QuVeu7iQmnw7xMhXDr0rvIoosLPoQ=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/juicy-sui-main.juicystake.io/tcp/8080/http
+  p2p-address: /dns/juicy-sui-main.juicystake.io/udp/8084
+  narwhal-primary-address: /dns/juicy-sui-main.juicystake.io/udp/8081
+  narwhal-worker-address: /dns/juicy-sui-main.juicystake.io/udp/8082
+  description: Juicy Stake validator by @knox_trades
+  image-url: "https://uploads-ssl.webflow.com/62d8507f3309286f79281dd0/62d855b80ae5fb48b99e4625_logo.png"
+  project-url: "https://JuicyStake.io"
+proof_of_possession: jXDzDY7ZoA1a0ILznqNojS0SZgVkYpk8PbtCVXks6lQWzUzUN+q7s7USkszC536q

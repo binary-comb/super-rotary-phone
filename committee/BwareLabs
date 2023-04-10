@@ -1,0 +1,17 @@
+---
+info:
+  name: BwareLabs
+  account-address: "0x2761e3db0abe9a2029291980ebad551b7c68dd53d1150adfa9f9ed8a2368458e"
+  protocol-key: i+jOX5tClN5FLegAulXR/Mr9I/Q4Fg01ogCLHnTBqVRavS00tFklS9rhynWwF4WvEEj1cA+qmps+G9T76L99L+nnY72qsJFT3agpDYj3BQRNlengSqpa/LPGipbUkXXB
+  worker-key: xZkirZ2aKTF6+eMIGLgAW1gWcVSVKwHnBtw8T5QDHaQ=
+  network-key: n+XAuz+69AafKVHWiW1JuU/gD6S1x13X0/YYvMq8xYY=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /ip4/141.95.34.55/tcp/8080/http
+  p2p-address: /ip4/141.95.34.55/udp/8084
+  narwhal-primary-address: /ip4/141.95.34.55/udp/8081
+  narwhal-worker-address: /ip4/141.95.34.55/udp/8082
+  description: Guaranteed availability and up-time backed by a professional blockchain infrastructure team.
+  image-url: "https://raw.githubusercontent.com/bwarelabs/brand-assets/master/icon/svg/bware-labs-icon-color.svg"
+  project-url: "https://bwarelabs.com"
+proof_of_possession: jyoOvrdAmFeFZN6qUV7pvkwbkBIdmdST1BH34K7wtxFVNNReUFdrw4Mcu8fIqXht

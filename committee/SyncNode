@@ -1,0 +1,17 @@
+---
+info:
+  name: SyncNode
+  account-address: "0xdd7330643eed25139d9fed288361e4cd3db54c7e0e8daecf26de4f99bbd71352"
+  protocol-key: t/1kLF9QMBkDMRHHrDogXKrP+B8ROpTYa34AF7QLUip1Ne6TF3br7cpV3IgO1OxfCGB4Kl2HxmMq1pwEbuKZHlwf2sooq+HV1r3zroNm8m85dlaVHBn4wP0mtaGizDTD
+  worker-key: /LSIwLuY3XRpxeQ3//zs8cwyCqITwfCoGgyJJAfrf+w=
+  network-key: y9+oF654NQaV3PIicEEHxD1Ous2j4lb+QUeuw4cZiE8=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/suimain1.syncnode.ro/tcp/8080/http
+  p2p-address: /dns/suimain1.syncnode.ro/udp/8084
+  narwhal-primary-address: /dns/suimain1.syncnode.ro/udp/8081
+  narwhal-worker-address: /dns/suimain1.syncnode.ro/udp/8082
+  description: Professional Staking Provider and builder for web3 infra
+  image-url: "https://raw.githubusercontent.com/syncnode-srl/syncnode/master/logo2.png"
+  project-url: "https://syncnode.ro/"
+proof_of_possession: rq8+QSzNHupFBkzW/m6vbhuKLzbA0QH5tR3kI1T4iyjpFBLw+vVbpOy9xFihEQe9

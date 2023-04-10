@@ -1,0 +1,17 @@
+---
+info:
+  name: Staked
+  account-address: "0x3047b5258a4ba6d7a6bea9ada69cb336ecfb24fe1c3cea83094396665eba0de5"
+  protocol-key: p10qsU/0wKga8jd36IO/cFzbzG3qa3x0T8jdn7mOraF61nG38HzNCJ1uH1UQahAiCf59JFN9I+f1y8wriUblyUCdvcvc3gF5iospbGo5dNTQ+dcSFu3Ws0fAXVn/Mzie
+  worker-key: VKvMZFFcEM+Xp0aKaFxkSzUv1NFcAm14QpK0dJAWizk=
+  network-key: dg6l35GWgkrUoNqqhgLOSORXI3Io2c4jHcJRPbrXONc=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.prod-eks-eu-west-1.staked.cloud/tcp/8080/http
+  p2p-address: /dns/sui-mainnet-udp.prod-eks-eu-west-1.staked.cloud/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet-udp.prod-eks-eu-west-1.staked.cloud/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet-udp.prod-eks-eu-west-1.staked.cloud/udp/8082
+  description: The leading provider of staking infrastructure
+  image-url: "https://avatars.githubusercontent.com/u/38704373"
+  project-url: "https://staked.us/"
+proof_of_possession: iYbsT+iSzi2I9QgqcpqAlDyJ1lyxLnb2JZ+36XoxeeOITDB6d7vCqXIHEOFo02TG

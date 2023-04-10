@@ -1,0 +1,17 @@
+---
+info:
+  name: Citadel.one
+  account-address: "0x4f9791d5c689306862b4eb9a25914c5433b7dfd5cb4827b461f7dfc813f28a7c"
+  protocol-key: lHO2S8bIwDOZG0wb15ZcJ41cz/OHncllxax5EZhDGKhE5b8huESlkTV9w3dz+I/UCGfPCQ3wfoEBR0QVcUZ2ge/uewnwMT8GSzDNTDy4K8C2f7B9jDo9WBMywaXCMwJA
+  worker-key: bezdS8bMDeGSvdqAUNUfeYvtoHAzR4kiE2VnGTFdlh0=
+  network-key: ks3be41YuCfoQVoYPtykllDnTielHtTh1ifZwqB6oeM=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-val.citadel.one/tcp/8080/http
+  p2p-address: /dns/sui-val.citadel.one/udp/8084
+  narwhal-primary-address: /dns/sui-val.citadel.one/udp/8081
+  narwhal-worker-address: /dns/sui-val.citadel.one/udp/8082
+  description: Citadel.one is a multi-asset non-custodial staking platform that lets anyone become a part of decentralized infrastructure and earn passive income.
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/2826e38259411adafb416505fb948c05_360_360.jpg"
+  project-url: "https://citadel.one"
+proof_of_possession: pGkovqdmW0mdt0NqCBVyy68XHq3KM3N0miBIHGsMoX8mQklxxTFMdNUzd6+uKyWB

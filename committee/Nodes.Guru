@@ -1,0 +1,17 @@
+---
+info:
+  name: Nodes.Guru
+  account-address: "0xec73ec4d6b2a9403937b12ca625f7b3124c4459ff4e3caae6cf6376edefb9f3a"
+  protocol-key: lRKmfqRcMrsuZei7zPYH+25TQDgKvisFL68z3whqAsJmykTzX2gZbBfYwFlBPKKwATkEZFzcLFY8AnyQaf709WO9Z+jdbBMxW4klFT1K2suHoS9E9T+wPyyJIeGojib5
+  worker-key: 7hLGG+yG7dBgkh3u2FEEvyyE2fcL5MaugTOJVJU/AVY=
+  network-key: OBPzdHrq3lst6lVr8kLy6IWPFlieESWizhsVvjwlCBE=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-validator.nodes.guru/tcp/8080/http
+  p2p-address: /dns/sui-validator.nodes.guru/udp/8084
+  narwhal-primary-address: /dns/sui-validator.nodes.guru/udp/8081
+  narwhal-worker-address: /dns/sui-validator.nodes.guru/udp/8082
+  description: "Guru of non-custodial staking. Professional node running, the best uptime and 24/7 customer support."
+  image-url: "https://api.nodes.guru/logo.svg"
+  project-url: "https://nodes.guru"
+proof_of_possession: pOtP5DbeiTIuXKZMWtRR8n481SHeS5dtn4d154N/1OZBWUnJHR7zfRPezJkMtOYm

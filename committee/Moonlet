@@ -1,0 +1,17 @@
+---
+info:
+  name: Moonlet
+  account-address: "0x9d0438098adf019a8c5a8708c7fc0075f6f19fcd251bf3eaabe0c7f74036ce5a"
+  protocol-key: rfWGaY2X/XGiLXfiDMHhmUkc0b13/+NIuCmm1NNi0kz/YEp46O+W43y1I7wPVJXiEYKGMbYHIxLqsRbvWhgt6vGWEREzsyoroYiSyt/+P+m6FJCoMYT/0EdPRThp2hCw
+  worker-key: iARhu7z35cIidKrhZR6FdGwefBw1dDXKWmM6BVwG1Nw=
+  network-key: 0XjRibYv6z1r9iXDPzeJ4/IrTSQt6GZYBIGJX4qzFiE=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.moonlet.network/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.moonlet.network/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.moonlet.network/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.moonlet.network/udp/8082
+  description: We operate nodes for next-generation blockchain networks and we are committed to support the decentralisation movement forward
+  image-url: "https://raw.githubusercontent.com/Moonlet/wallet-app/master/src/assets/images/png/moonlet_logo.png"
+  project-url: "https://moonlet.io"
+proof_of_possession: rWlWEjS0PDqh14n/pQuS26wSG3IrkEw5vKGmZXs4L9ZP9ZV3JEZMsxh8Fne+auvS

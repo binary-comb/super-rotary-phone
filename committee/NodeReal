@@ -1,0 +1,17 @@
+---
+info:
+  name: NodeReal
+  account-address: "0x262d556ae0d627450a91a353ddc3aaeb9ff0549172daf4d94ffb3a4401e6f930"
+  protocol-key: l9DQWw/rH0opQ89+Gareh9gywnQwrOBbYUI3hrCHg7Xu4PURJM1dKMNfbPOBkrCyD519kkD0JJXm0uZdkYFuhUv7Lw4vSm5mPNlEEIZbDedYg/2zrRoRVTiMB5azYvGD
+  worker-key: VKTD6xGtwFTpOv+w2k3fwt0dX1yyqB+WOG7KCKArJlA=
+  network-key: k7nZtAtR7l8yFOri0aVMZiSQuh3UlON38OPSS43Y40s=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet-validator.nodereal.io/tcp/8080/http
+  p2p-address: /dns/sui-mainnet-validator.nodereal.io/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet-validator.nodereal.io/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet-validator.nodereal.io/udp/8082
+  description: "One-stop blockchain infrastructure and services provider, providing scalable, reliable, and efficient blockchain solutions for everyone."
+  image-url: "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
+  project-url: "https://nodereal.io/"
+proof_of_possession: ipx8kIIV168g3z10JWvo0x9OkvhIBNHmCBnPMH1+TolX6WRRH8nTWrpoec0TQvwA

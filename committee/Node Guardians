@@ -1,0 +1,17 @@
+---
+info:
+  name: Node Guardians
+  account-address: "0xf72816357f8e5638c90ec5b0f7eecee362bac0ef7e64822ea6d686730251a7a0"
+  protocol-key: sw+joe5wuwX54f+SnRS27iawt3gSaiHUPqG94sY8qWEILlpzVhHE/Br16RDKKBgWAsYhCyaVKGejVnMVfulTv/q4S68/ipz68Q7fkuuFvo32EkA2wxBjmtavnrDeEb0I
+  worker-key: KBui/RARvw7SIhUt+Ng3z7KBmBx3+Dpkv7oPj4pfHNQ=
+  network-key: X5IEBx0l4C831OSSrUS16zQ0RJqaJsnfnRAcwnZm0IA=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.nodeguardians.io/tcp/8080/http
+  p2p-address: /dns/sui.nodeguardians.io/udp/8084
+  narwhal-primary-address: /dns/sui.nodeguardians.io/udp/8081
+  narwhal-worker-address: /dns/sui.nodeguardians.io/udp/8082
+  description: "Sui Network is under the watchful eyes of the Node Guardians, delivering protection and rewards - nodeguardians.io"
+  image-url: "https://cdn.nodeguardians.io/ng_logo.png"
+  project-url: "https://nodeguardians.io"
+proof_of_possession: lQvQt90DtBWKCrlKYYJcMyCqu1N9U1Xd7WVjpGl3POqWDw05YfTYxk4XSTBccqYN

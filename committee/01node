@@ -1,0 +1,17 @@
+---
+info:
+  name: 01node
+  account-address: "0x876e2ad4ba0375c7752d24ca47c69e7096e6dbfd82a215612a08f47cffebcfbc"
+  protocol-key: hZ3c3jzHa6/DCes/kGvRXTEDo6CShn+7lcpGcqbK0LbexCFYvcWZV1r7NlFz8PsPDh9e6A/GDss/4zQbFeRkNrHvU9D8aZApTZYwtZHygX06N9XEBmQijeXC/g0WyyoL
+  worker-key: hw4zRkXodAF8yr+ScDs8H9weyhWFsL5vI4HFfkAraE8=
+  network-key: nuaZpaBX5ubfATJdkSZgwDPVG5p2cP96LwMlhCloPQ8=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.01no.de/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.01no.de/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.01no.de/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.01no.de/udp/8082
+  description: Securely validating one block at time since 2019
+  image-url: "https://01node.com/logo.png"
+  project-url: "https://01node.com"
+proof_of_possession: sh3/YcTetXkKY0R3SqwKXWnsw/oLbGGc+I6biYZYA/97h5AFtgrdDuvABKKpsynU

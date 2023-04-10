@@ -1,0 +1,17 @@
+---
+info:
+  name: Chainode Tech
+  account-address: "0xe05098c2049b9e4c37be7a3be42214498603b981d514a581ef741dc628651b1a"
+  protocol-key: st3SAp8VjBm3ZEejdv8nyl1k20UbRgEquo1Jjj3DLp22bejiHISis95vaqEDm/oNBfRdQJ+jwmZB5Ips8l6iSpFixZQNEQLkWcLf6RzC827XgsK6pICCy8f0bs7DV0xU
+  worker-key: YLmCyg08Jz79mpY9L60IvzXpFnBENnk+gSutMP5UuU0=
+  network-key: cvMHSrRWtJcybaYQVryYIEKAxFIIZ30Q1qSoIxmtfVc=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.chainode.tech/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.chainode.tech/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.chainode.tech/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.chainode.tech/udp/8082
+  description: Chainode Tech - Your trusted Swiss-based provider of non-custodial Sui staking and enterprise-grade Web3 infrastructure solutions
+  image-url: "https://chainode.tech/img/ctlogo/ChainodeTechLogoColor.svg"
+  project-url: "https://chainode.tech/"
+proof_of_possession: rYjG3A5szgyPPUXWSrI1ij6pLIKtYpr4FpoJUTrEkNmJi7oF7KfK7/1Z3CS3pYFI

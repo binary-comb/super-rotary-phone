@@ -1,0 +1,17 @@
+---
+info:
+  name: Neuler
+  account-address: "0x0de5a09a0b029b0c4f1017a58dc78a2341511a7f6ba4925287aa836c1166dbbe"
+  protocol-key: rfjIo4FPeMHyksV/DrkxdaaFo0k9PsFjAC5HXXT7o2IDdLggDvsEdtGrXJQkKFfQDsbynFrUvJRHUeD7VrLiKhAaYujXj5hAsjuDQCqPlV7iX+9slJP4g5OU7SUBk4x8
+  worker-key: GzuC0kOVAx3PGuqaj5N4XCRNQ2ObkNzXY2/c3Nqjh6E=
+  network-key: AEveStabtB1R9PZEXphnyRq6ZTVo5IQou6QQAixY9xQ=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui.validator.neuler.xyz/tcp/8080/http
+  p2p-address: /dns/sui.validator.neuler.xyz/udp/8084
+  narwhal-primary-address: /dns/sui.validator.neuler.xyz/udp/8081
+  narwhal-worker-address: /dns/sui.validator.neuler.xyz/udp/8082
+  description: Accelerating decentralization
+  image-url: "https://www.neuler.xyz/img/Neuler_icon.png"
+  project-url: "https://www.neuler.xyz/"
+proof_of_possession: pWZtjcs7f77SHCRnu15SXUlN4EmtClXZoTkioFoafixoj0sGD9Eu/sn0T/bYwnsh

@@ -1,0 +1,17 @@
+---
+info:
+  name: Figment
+  account-address: "0x8ecaf4b95b3c82c712d3ddb22e7da88d2286c4653f3753a86b6f7a216a3ca518"
+  protocol-key: sIKADwnYVGi7T2itDiynaVpFzUk1UOW+0r26cZ/AAMq+DQIFcUtnf1b+3NTTNHF2GEJ+15tuiQTvGX5/9qeMKfR5CNLjerXkPEm/o/duGzSdpN3La/OdHAokkUhFNUhh
+  worker-key: HZqpwaNN/8aTpkQN3p4iyDosxXWK3z7rJ0trcvAhais=
+  network-key: 7VQXbLk+0wrqpIs3QddsdUKVt25VpRDFozjUHjeTQAI=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet-figment.staking.production.figment.io/tcp/8080/http
+  p2p-address: /dns/sui-mainnet-figment.staking.production.figment.io/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet-figment.staking.production.figment.io/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet-figment.staking.production.figment.io/udp/8082
+  description: Figment is the leading provider of blockchain infrastructure. We provide comprehensive staking solutions for 200+ institutional clients.
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/bd5fb87f241bd78a9c4bceaaa849ca05_360_360.jpg"
+  project-url: "https://figment.io"
+proof_of_possession: gi0KVOvydzmitr89tqhRYepyCPEz5HhI8bAmeLQOF+jirCU7O2cIXw9tJ0cBgoEz

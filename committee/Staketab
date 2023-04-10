@@ -1,0 +1,17 @@
+---
+info:
+  name: Staketab
+  account-address: "0x61953ea72709eed72f4441dd944eec49a11b4acabfc8e04015e89c63be81b6ab"
+  protocol-key: lt/bI5DNmWCk6vFmyEZueTaFl/YDug4nNpbyykaqXA6T9bOVJ9utYKba3QF6eP60Gf+AphJc2fvDXnbnls0sdqDNm25VNyarONHil7wWNsh9pujLhdXkmz1IKDmKLk85
+  worker-key: qMQos2jbWXxeOUmaWjRmfxa70NvKuONEd+D+p8m72+M=
+  network-key: 8/PcWj6NANNiX5HC9ASL+x+f4Kk7FWEcvlxipF+HOjY=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.staketab.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.staketab.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.staketab.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.staketab.com/udp/8082
+  description: Staketab is engaged in professional validation in various blockchain networks. We develop fast and high-quality explorers and other ecosystem tools.
+  image-url: "https://raw.githubusercontent.com/Staketab/brand-kit/main/Staketab/svg/Staketab-icon-big-color.svg"
+  project-url: "https://staketab.com/"
+proof_of_possession: tt/8M6VVSHar7rzjbUBdcs2ni9PkKMRJta/vtUPW8TjVldayoAisPPfB9Q7GGkJ8

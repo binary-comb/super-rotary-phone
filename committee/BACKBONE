@@ -1,0 +1,17 @@
+---
+info:
+  name: BACKBONE
+  account-address: "0xd3672e1b60bf051dbb95bfde99fc5fbea89c7856a3bed6ffb4bf990311adaa06"
+  protocol-key: oYkzQ4c3agTGWFHlbAC//EqaLFfoto2MTVO2ZRtUk8FnDb09lutnt2p2ostrwph3GOfUE6ntzusD9Ye7/CDUET/HC+nGiZSYSzCsicBB3IldJqwWbx2ZvwIsQsBTunmi
+  worker-key: PVwkf6NwP0OP2xJPzsg1G3u0gq8l6YU7y2BQ4RsXubo=
+  network-key: QwLpoQ5pelxiHlVc7EgdC14QPXXtlAC30+XscZmP6Ls=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet.backbone.link/tcp/8080/http
+  p2p-address: /dns/sui-mainnet.backbone.link/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet.backbone.link/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet.backbone.link/udp/8082
+  description: ""
+  image-url: ""
+  project-url: ""
+proof_of_possession: jLb7VzU7lsrDupGhM43tFRLCq4EZiDbFRoNtic4v01IfgUMJlLIW3Zd1W2pdm6mH

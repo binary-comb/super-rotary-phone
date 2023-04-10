@@ -1,0 +1,17 @@
+---
+info:
+  name: Ankr
+  account-address: "0xa2bf32db91ad54684cfd8a4e1d85f7672875d62421d40a8d993f601cff9b61ff"
+  protocol-key: tP0nozWnb1PrsKpt6jOdOAdLXaJ5JauCFTUQ6ftKsL+dCtwNU023IF3j4qikiNyMDY+JkknSElqld0yHcuh78Pbi529o3pNyXowPm+8N0FQO/tnwentOHR82RptRf8PI
+  worker-key: snAyUyJ1k3yU/GgCLInjeMSGuj65+KC3BMd9yJ5oToY=
+  network-key: 3MdOL550JgSGc82iXKqnPdslkmFlwoJAxMRLXt2B8xc=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-mainnet-validator.ankr.com/tcp/8080/http
+  p2p-address: /dns/sui-mainnet-validator.ankr.com/udp/8084
+  narwhal-primary-address: /dns/sui-mainnet-validator.ankr.com/udp/8081
+  narwhal-worker-address: /dns/sui-mainnet-validator.ankr.com/udp/8082
+  description: "Ankr Staking - makes staking, liquid staking, and other yield-earning opportunities easy and accessible to any crypto investor"
+  image-url: "https://www.ankr.com/_next/static/images/ankr-blue-symbol-98148d4885e995a17721d2bbc07d3fe9.svg"
+  project-url: "https://www.ankr.com/staking/stake/"
+proof_of_possession: kfegHiogI8Lz/kDULKMP/wDJLaidqHhxs8RaV6Eb/+RiE3tgX0KZ5Wmk/296mRFB

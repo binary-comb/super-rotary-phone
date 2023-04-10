@@ -1,0 +1,17 @@
+---
+info:
+  name: BiXinKelePool
+  account-address: "0xfdac6c544f156578adb6adfa351bb4d1fc85f9025af67818ffef87ce868b1644"
+  protocol-key: ruB/qAfQ4XKdvKRS91d9eJVFSpsqeS2f2nhGllZ06j96xR3rG9roISK3dRYmgFmpEr1pMoIkHTAhjoilScQIez7CjhslSox/+Dh6gnpXYu6O9Qdj1B01AdPAIqwzGWVW
+  worker-key: fi38FOF0BZfOQhgwWVatGAwJji4OZAn2oqAtBcrIf9Q=
+  network-key: qa6/HomZ5p/byJbPCqcrGfiLHuBGogvqlC/koPb08O0=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/n1.sui.kelepool.io/tcp/8080/http
+  p2p-address: /dns/n1.sui.kelepool.io/udp/8084
+  narwhal-primary-address: /dns/n1.sui.kelepool.io/udp/8081
+  narwhal-worker-address: /dns/n1.sui.kelepool.io/udp/8082
+  description: ""
+  image-url: ""
+  project-url: ""
+proof_of_possession: kqCH2sVGyylNLeTsQiSuwrEcdOwd9fBxIkIdYLQTvdirnATQYTp3I+cFv5GeupUm

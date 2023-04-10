@@ -1,0 +1,17 @@
+---
+info:
+  name: RepublicCrypto
+  account-address: "0x333b6f2a08d138e8c98d84258859b701a4215e2fabb2aee69300f9f4604cda92"
+  protocol-key: l5ex+OuRHLzXhjsHTmtxKSzK9i0/2s+n0fSqzKFeVnpRjLURnReDtEDMriGGhuotBN19CeRnqK6U/i6Y25jshJPOfYD2awD9xseg4DfG9Dv8GEjmPXJhmvmiruTJoPxr
+  worker-key: gIGiNaicNh8v56+0stH4Q9A6WHx3RB9Db0QByCV8zgs=
+  network-key: 8Gb/sasyXMdvaTXbn1JlXFcVviQxPCaClpk/Vk05oLE=
+  gas-price: 1000
+  commission-rate: 1000
+  network-address: /dns/v.sui.mainnet.republiccrypto-source.info/tcp/8080/http
+  p2p-address: /dns/v.sui.mainnet.republiccrypto-source.info/udp/8084
+  narwhal-primary-address: /dns/v.sui.mainnet.republiccrypto-source.info/udp/8081
+  narwhal-worker-address: /dns/v.sui.mainnet.republiccrypto-source.info/udp/8082
+  description: "Supporting projects like Sui, Cosmos, Regen, Secret and Pocket from pre-sale to launch and beyond"
+  image-url: "https://res.cloudinary.com/dcisquypm/image/upload/v1660938044/validator-logos/jj9tkzlpwb2ivtnsiswj.png"
+  project-url: "https://republic.com/crypto"
+proof_of_possession: uSxGvCnJGBVlw9Ar0pozvqar88XASA/jt7uEI6rxZacJ4FUfe4A4HqAXtjqGShdY

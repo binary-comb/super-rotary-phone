@@ -1,0 +1,17 @@
+---
+info:
+  name: proofgroup
+  account-address: "0x22a4a737eb86d98a62336dd4cf6b957321884dda7446b7c4c720f2c9090aa7c3"
+  protocol-key: qiRzRjGHN5XjXKi/Sqqp55D6W0tNXkwOQTIbXpzgP2PBJUwtwi+lnOWRoukOyu2BBjjTMgBPR5xPkZXYbJIERJQF3p1az3sl+s+oP732uU+z6a1BwsLI1dj2Ofl73DqM
+  worker-key: r8XF+LCceHf20Ho9Q08P9BOq5ElX+neloFg3krNJnB0=
+  network-key: TNKLCGPczrEDIplpx6bFsk6T5ebFmQ6i9Jyhd9F8Npg=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/sui-main.proofgroup.xyz/tcp/8080/http
+  p2p-address: /dns/sui-main.proofgroup.xyz/udp/8084
+  narwhal-primary-address: /dns/sui-main.proofgroup.xyz/udp/8081
+  narwhal-worker-address: /dns/sui-main.proofgroup.xyz/udp/8082
+  description: m3diumrare x Proofgroup
+  image-url: "https://raw.githubusercontent.com/m3diumrare/assets/main/logo.png"
+  project-url: "https://sui.proofgroup.xyz/"
+proof_of_possession: lQohUlTBP3mYAt1TnQ+wFYh2AQgHae+Cuq/oowpAAg+zJ9/M+6aGdlCI22U/N4km
