@@ -1,0 +1,17 @@
+---
+info:
+  name: Kiln
+  account-address: "0x92c7bf9914897e8878e559c19a6cffd22e6a569a6dd4d26f8e82e0f2ad1873d6"
+  protocol-key: j8nknwLa2uRJIaO40XTkWvmq08j8uGhPkFMtD5mFkg1uW4W98NpAl1TIH+7226G9FWgyhEfsVI75put/rDGKBMH7pGo3Tez34z58lluB5DwyfjS2wlav7XAJFCyRlYD8
+  worker-key: 9cVuvQJKkWHKVteiTE7W20KUKZ14QHW0mcXHr4cvx9Y=
+  network-key: KpwwtGzaRYzC2lJxKUaRtQPEegGWoj30nwtbMzuj2W8=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/validator-0.sui.mainnet.kiln.fi/tcp/8080/http
+  p2p-address: /dns/validator-0.sui.mainnet.kiln.fi/udp/8084
+  narwhal-primary-address: /dns/validator-0.sui.mainnet.kiln.fi/udp/8081
+  narwhal-worker-address: /dns/validator-0.sui.mainnet.kiln.fi/udp/8082
+  description: Enterprise-grade staking made easy
+  image-url: "https://raw.githubusercontent.com/kilnfi/public/main/icon-360px.jpg"
+  project-url: "https://kiln.fi"
+proof_of_possession: s+qF+Sfs/+VR70Rxii8ZF9Yf8y8PpFJDyK/jAlZHq60qc7FAM8N3Qr/S0SZQq3MQ
